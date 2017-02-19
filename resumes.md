@@ -1,3 +1,5 @@
+## Resumes
+
 ### Disclaimer
 
 There are a lot of opinions on resumes. Many of them conflict with each other. Here I'll write about the things I look for when critiquing/writing resumes, but keep in mind it's just my own preference (and I'll try to explain why I feel that way). The main goal of a resume is to advertise yourself as well as possible, so if you feel you can do that better by not following my advice, then go for it.
@@ -5,7 +7,7 @@ There are a lot of opinions on resumes. Many of them conflict with each other. H
 
 ### Why resumes are important
 
-Even if you're super qualified, if you can't show that on your resume you might not get an interview and then will never get a chance to even talk to someone about why you're a good fit for a job. The resume is one of the first parts of the job hunt funnel so it's very important to take it seriously and make it good. Folks that are hiring often spend only a few seconds looking at your resume, so knowing what they're expecting to see and how to impress them is essential for getting your job.
+This is only the first step to applying for jobs — if you have a weak resume you don’t even get to the interview part (even if you're super qualified!), so having a good resume is very important. Folks that are hiring often spend only a few seconds looking at your resume, so knowing what they're expecting to see and how to impress them is essential for getting your job.
 
 
 ### Key goals
@@ -14,6 +16,15 @@ Even if you're super qualified, if you can't show that on your resume you might 
 - How you'll do it:
  - make your resume easy to scan
  - clearly and concisely demonstrate your qualifications
+
+### Start early!
+
+Start on your resume at least a month before applying for jobs so you have time to refine it to be awesome.
+
+
+### Get people to critique your resume
+
+This is a verrry important step and why it's good to start early. Go to resume critique sessions if your school holds them and ask all the experienced older folks to look it over. Post your resume on Facebook and just keep asking people to edit it. I know it’s scary to expose yourself like that, but having other people look over your resume is so so useful and helpful and worth it.
 
 
 ### Show don't tell
@@ -105,3 +116,8 @@ If you have projects on GitHub (if you don't, but have proejcts, put them on Git
 If you've written a blog post about a project, link to it. If you have a website, link to it at the top of your resume. Add your linkedin. Add your email. Make it all clickable! If you worked at a company that has a website, link to that too.
 
 If you really want someone to be able to visit your link, even if they've printed your resume, make a short link (so it's easier to copy out) and explictly paste it in your resume. In other places you can just hyperlink text as bonus information if someone happens to hover over that area.
+
+
+More resources about resumes:
+
+- [something I wrote a while ago about resumes](https://docs.google.com/document/d/1iMMQCuHFY5ocwAJSrnAIfz5o23CYYsT0EPtlYTaj9Bs/pub) (there's some stuff I haven't put here yet)
