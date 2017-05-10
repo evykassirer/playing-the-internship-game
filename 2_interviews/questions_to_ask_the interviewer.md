@@ -1,4 +1,4 @@
-## Questions to ask in interviews
+## Questions to ask the interviewer
 
 At the end of an interview, you're often asked if you have any questions for *them*. Here are some of my favourite things to ask:
 
