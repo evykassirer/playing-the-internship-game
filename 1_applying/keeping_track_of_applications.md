@@ -4,7 +4,8 @@ This is nerd-me's favourite part!
 
 I like to keep track of where I've applied to in a spreadsheet. It looks like this:
 
-TODO: add a blurred out screenshot of my spreadsheet
+![](/images/blurred_job_sheet.png)
+![](/images/job_sheet_legend.png)
 
 For each company I put:
 

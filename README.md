@@ -10,8 +10,6 @@ This is just advice, a collection of things people have said that I've found hel
 
 I also want to note that just because I've learned that something is the most effective thing to do to get a job doesn't mean I think should be - the interview processes many companies use aren't necessarily fair or effective for evaluating how good of an employee you'd be. That's why this is a game. They create the game and you learn to play it well, and that's how you get jobs. It sucks, but I figured you should at least know how to play it well too.
 
-If you have a question, open an issue with it and I'll try to add the answer in here somewhere. If you'd like to ask a question anonymously, or just less publicly, you can also fill out this form (TODO set up a form and have it email me when someone fills it out and then link to it).
+If you have a question, [open an issue](https://github.com/evykassirer/playing-the-internship-game/issues/new) with it and I'll try to add the answer in here somewhere. If you'd like to ask a question anonymously, or just less publicly, you can also fill out [this form](https://goo.gl/forms/jdmIcCBQcbBf5P5w1)
 
-If you have advice to add, please open a pull request!
-
-TODO: link to new issue and pull request pages
+If you have advice to add, please feel free to open a pull request!
