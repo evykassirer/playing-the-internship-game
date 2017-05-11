@@ -4,7 +4,8 @@
 
 You can often find lists online of companies hiring for summer internships. Internships at other times of the year can be trickier, but you can always email companies that do summer internships and ask if they'll hire at other times of the year.
 
-TODO: add some links to lists people often use (idk, can some people recommend? I haven't used these much)
+- [http://www.intern.supply/](http://www.intern.supply/)
+- TODO: add some links to lists people often use (idk, can some people recommend? I haven't used these much)
 
 ### Join Facebook groups (and mailing lists, slack channels, whatever is out there) that have job postings.
 
