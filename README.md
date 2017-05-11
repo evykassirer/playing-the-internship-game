@@ -1,8 +1,6 @@
 # playing-the-internship-game
 
-(NOTE: this is totally a work in progress, mostly just a brain dump right now from a day during reading week. I hope to get back to this during exams and the summer term!)
-
-the rules, tips, and tricks I've learned on how to approach tech internships
+### The rules, tips, and tricks I've learned on how to approach tech internships
 
 I've collected this pile of advice thanks to many folks with more experience than me, or who came up with cool ideas I might not have thought of. These things give me an advantage and I think it's unfair that others shouldn't have that same advantage if they're motivated enough to look for advice and just don't know the same people I do. So I'm putting as much as I can remember here, and hoping that if you read this and it helps you, that you will pass this knowledge on to help others too.
 
