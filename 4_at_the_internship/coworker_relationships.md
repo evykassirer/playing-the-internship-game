@@ -1,4 +1,4 @@
-## Relationships with your coworkers
+## Coworker Relationships
 
 > One thing no one tells you early in your career is how insanely valuable your coworker relationships become *after* you leave a company.
 
