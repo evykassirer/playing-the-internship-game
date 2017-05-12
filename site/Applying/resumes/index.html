@@ -1,0 +1,972 @@
+
+<!DOCTYPE html>
+<html class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="A tutorial to python">
+      
+      
+      
+        <meta name="author" content="Evy Kassirer">
+      
+      
+        <link rel="shortcut icon" href="../../assets/images/favicon.png">
+      
+      <meta name="generator" content="mkdocs-0.16.1, mkdocs-material-1.2.0">
+    
+    
+      
+        <title>Resumes - Playing the Internship Game</title>
+      
+    
+    
+      <script src="../../assets/javascripts/modernizr-56ade86843.js"></script>
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/application-e17eeafcbc.css">
+      
+        <link rel="stylesheet" href="../../assets/stylesheets/application-892b79c5c5.palette.css">
+      
+    
+    
+      
+        
+        
+        
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    
+    
+    
+  </head>
+  
+  
+  
+  
+    <body data-md-color-primary="blue" data-md-color-accent="light-blue">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448" viewBox="0 0 416 448" id="github"><path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19T128 352t-18.125-8.5-10.75-19T96 304t3.125-20.5 10.75-19T128 256t18.125 8.5 10.75 19T160 304zm160 0q0 10-3.125 20.5t-10.75 19T288 352t-18.125-8.5-10.75-19T256 304t3.125-20.5 10.75-19T288 256t18.125 8.5 10.75 19T320 304zm40 0q0-30-17.25-51T296 232q-10.25 0-48.75 5.25Q229.5 240 208 240t-39.25-2.75Q130.75 232 120 232q-29.5 0-46.75 21T56 304q0 22 8 38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0 37.25-1.75t35-7.375 30.5-15 20.25-25.75T360 304zm56-44q0 51.75-15.25 82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5T212 416q-19.5 0-35.5-.75t-36.875-3.125-38.125-7.5-34.25-12.875T37 371.5t-21.5-28.75Q0 312 0 260q0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25 30.875Q171.5 96 212 96q37 0 70 8 26.25-20.5 46.75-30.25T376 64q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34 99.5z"/></svg>
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="drawer">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="search">
+    <label class="md-overlay" data-md-component="overlay" for="drawer"></label>
+    
+      <header class="md-header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          <a href="../.." title="Playing the Internship Game" class="md-icon md-icon--home md-header-nav__button">
+          </a>
+        
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <span class="md-flex__ellipsis md-header-nav__title">
+          
+            
+              
+                <span class="md-header-nav__parent">
+                  Applying
+                </span>
+              
+            
+            Resumes
+          
+        </span>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          <label class="md-icon md-icon--search md-header-nav__button" for="search"></label>
+          
+<div class="md-search" data-md-component="search">
+  <div class="md-search__overlay"></div>
+  <div class="md-search__inner">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Search" accesskey="s" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query">
+      <label class="md-icon md-search__icon" for="search"></label>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result"></div>
+      </div>
+    </div>
+  </div>
+</div>
+        
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <div class="md-header-nav__source">
+          
+            
+
+
+  
+
+
+  <a href="https://github.com/evykassirer/playing-the-internship-game" title="Go to repository" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      GitHub
+    </div>
+  </a>
+
+          
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="drawer">
+    
+      <i class="md-icon md-icon--home md-nav__button"></i>
+    
+    Playing the Internship Game
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+
+  <a href="https://github.com/evykassirer/playing-the-internship-game" title="Go to repository" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      GitHub
+    </div>
+  </a>
+
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../.." title="Home" class="md-nav__link">
+      Home
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../resources/" title="Resources" class="md-nav__link">
+      Resources
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
+    
+    <label class="md-nav__link" for="nav-3">
+      After The Offer
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        After The Offer
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../After-The-Offer/salary_and_negotiating/" title="Salary and negotiating" class="md-nav__link">
+      Salary and negotiating
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4" checked>
+    
+    <label class="md-nav__link" for="nav-4">
+      Applying
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-4">
+        Applying
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../finding_companies_to_apply_to/" title="Finding companies to apply to" class="md-nav__link">
+      Finding companies to apply to
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../how_to_apply/" title="How to apply" class="md-nav__link">
+      How to apply
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../keeping_track_of_applications/" title="Keeping track of applications" class="md-nav__link">
+      Keeping track of applications
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../references/" title="References" class="md-nav__link">
+      References
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="toc">
+        Resumes
+      </label>
+    
+    <a href="./" title="Resumes" class="md-nav__link md-nav__link--active">
+      Resumes
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#resumes" title="Resumes" class="md-nav__link">
+    Resumes
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#disclaimer" title="Disclaimer" class="md-nav__link">
+    Disclaimer
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#why-resumes-are-important" title="Why resumes are important" class="md-nav__link">
+    Why resumes are important
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#key-goals" title="Key goals" class="md-nav__link">
+    Key goals
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#start-early" title="Start early!" class="md-nav__link">
+    Start early!
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#get-people-to-critique-your-resume" title="Get people to critique your resume" class="md-nav__link">
+    Get people to critique your resume
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#show-dont-tell" title="Show don't tell" class="md-nav__link">
+    Show don't tell
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#length" title="Length" class="md-nav__link">
+    Length
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sections-in-your-resume" title="Sections in your resume" class="md-nav__link">
+    Sections in your resume
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#how-to-talk-about-things" title="How to talk about things" class="md-nav__link">
+    How to talk about things
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#on-how-old-your-points-can-be" title="On how old your points can be" class="md-nav__link">
+    On how old your points can be
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#formatting" title="Formatting" class="md-nav__link">
+    Formatting
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#link-to-stuff" title="Link to stuff!" class="md-nav__link">
+    Link to stuff!
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../side_projects/" title="Side projects" class="md-nav__link">
+      Side projects
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../when_to_apply/" title="When to apply" class="md-nav__link">
+      When to apply
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5">
+    
+    <label class="md-nav__link" for="nav-5">
+      At the Internship
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-5">
+        At the Internship
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../At-the-Internship/1_on_1s_and_feedback/" title="1 on 1s and feedback" class="md-nav__link">
+      1 on 1s and feedback
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../At-the-Internship/asking_questions/" title="Asking questions" class="md-nav__link">
+      Asking questions
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../At-the-Internship/coworker_relationships/" title="Coworker relationships" class="md-nav__link">
+      Coworker relationships
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../At-the-Internship/keeping_an_internship_summary/" title="Keeping an internship summary" class="md-nav__link">
+      Keeping an internship summary
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../At-the-Internship/meetings/" title="Meetings" class="md-nav__link">
+      Meetings
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-6" type="checkbox" id="nav-6">
+    
+    <label class="md-nav__link" for="nav-6">
+      Interviews
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-6">
+        Interviews
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Interviews/answering_technical_questions/" title="Answering technical questions" class="md-nav__link">
+      Answering technical questions
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Interviews/general_interview/" title="General interview" class="md-nav__link">
+      General interview
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Interviews/preparing_for_interviews/" title="Preparing for interviews" class="md-nav__link">
+      Preparing for interviews
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Interviews/questions_to_ask_the interviewer/" title="Questions to ask the interviewer" class="md-nav__link">
+      Questions to ask the interviewer
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-7" type="checkbox" id="nav-7">
+    
+    <label class="md-nav__link" for="nav-7">
+      Other
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-7">
+        Other
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../other/waterloo_specific/" title="Waterloo specific" class="md-nav__link">
+      Waterloo specific
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#resumes" title="Resumes" class="md-nav__link">
+    Resumes
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#disclaimer" title="Disclaimer" class="md-nav__link">
+    Disclaimer
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#why-resumes-are-important" title="Why resumes are important" class="md-nav__link">
+    Why resumes are important
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#key-goals" title="Key goals" class="md-nav__link">
+    Key goals
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#start-early" title="Start early!" class="md-nav__link">
+    Start early!
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#get-people-to-critique-your-resume" title="Get people to critique your resume" class="md-nav__link">
+    Get people to critique your resume
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#show-dont-tell" title="Show don't tell" class="md-nav__link">
+    Show don't tell
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#length" title="Length" class="md-nav__link">
+    Length
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sections-in-your-resume" title="Sections in your resume" class="md-nav__link">
+    Sections in your resume
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#how-to-talk-about-things" title="How to talk about things" class="md-nav__link">
+    How to talk about things
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#on-how-old-your-points-can-be" title="On how old your points can be" class="md-nav__link">
+    On how old your points can be
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#formatting" title="Formatting" class="md-nav__link">
+    Formatting
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#link-to-stuff" title="Link to stuff!" class="md-nav__link">
+    Link to stuff!
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+               
+                 <a href="https://github.com/evykassirer/playing-the-internship-game/edit/master/docs/Applying/resumes.md" title="Edit this page" class="md-icon md-content__edit">edit</a>
+               
+              
+                
+                  <h1>Resumes</h1>
+                
+                <h2 id="resumes">Resumes</h2>
+<h3 id="disclaimer">Disclaimer</h3>
+<p>There are a lot of opinions on resumes. Many of them conflict with each other. Here I'll write about the things I look for when critiquing/writing resumes, but keep in mind it's just my own preference (and I'll try to explain why I feel that way). The main goal of a resume is to advertise yourself as well as possible, so if you feel you can do that better by not following my advice, then go for it!</p>
+<h3 id="why-resumes-are-important">Why resumes are important</h3>
+<p>This is only the first step to applying for jobs — if you have a weak resume you don’t even get to the interview part (even if you're super qualified!), so having a good resume is very important. Folks that are hiring often spend only a few seconds looking at your resume, so knowing what they're expecting to see and how to impress them is essential for getting your job.</p>
+<h3 id="key-goals">Key goals</h3>
+<ul>
+<li>Goal: prove you're qualified and would be nice to work with</li>
+<li>How you'll do it:</li>
+<li>make your resume easy to scan</li>
+<li>clearly and concisely demonstrate your qualifications</li>
+</ul>
+<h3 id="start-early">Start early!</h3>
+<p>Start on your resume at least a month before applying for jobs so you have time to refine it to be awesome.</p>
+<h3 id="get-people-to-critique-your-resume">Get people to critique your resume</h3>
+<p>This is a verrry important step and why it's good to start early. Go to resume critique sessions if your school holds them and ask your peers or more folks to look over your resume. Post your resume on Facebook and just keep asking people to edit it. I know it’s scary to expose yourself like that, but having other people look over your resume is so so useful and helpful. If you can push your comfort levels a little, I think it will be worth it.</p>
+<h3 id="show-dont-tell">Show don't tell</h3>
+<p>As much as possible, don't list your skills without context proving you have them. Anyone can write "good communicator" on their resume, and unless you talk about something you did that needed very good communication skills, that line is essentially useless. In general, just don't list "good communicator" as a skill and instead talk about your communication skills when you talk about your experience. Similarily, show that you know programming languages by mentioning them in the work you've done with them and don't just list a bunch of them at the top of your resume.</p>
+<h3 id="length">Length</h3>
+<p>One page is generally considered best, but I've had a two page resume in the past and know plenty of people that have done well with two page resumes. In general, I'd say if you have a two page resume, you should make sure it's okay if they only read the first page (i.e. the second page is like "bonus extra stuff about me").</p>
+<p>I like the idea of the one page resume because (1) people might not look at it long enough to even see the second page and (2) if you spread out your information accross two pages, you'll probably have less concentration of the good stuff. If you have a 2+ page resume, pick your best selling points accross those multiple pages and put just those on one page.</p>
+<p>In general, it might seem like writing more will make you seem more impressive, but if you write tons and tons only to fill space, it won't be impressive because it will be obvious that it's just filler. Short resumes clearly and concisely demonstrate your qualifications and are easier for a recruiter or potential employer to scan and understand.</p>
+<h3 id="sections-in-your-resume">Sections in your resume</h3>
+<p>Header</p>
+<ul>
+<li>Here you'll want to put your name, email, and GitHub (if you have one)</li>
+<li>If you have a website, link to it</li>
+<li>Many people put their phone number here, but I don't like being called out of the blue so I don't put my number on my resume - if they need it they can email me and ask for it</li>
+<li>Don't put your address - no one will mail you in this day and age, and it takes up a bunch of space</li>
+<li>If you're early in your education, don't put your term/year/graduation date in the header - it gives you less cred right off the bat (you can put it in the education section lower down)</li>
+</ul>
+<p>Work experience</p>
+<ul>
+<li>This should go at the top if you have relevant experience</li>
+<li>If you have some work experience, but it's not relevant to tech, you might want to put it on your resume anyways. Put anything tech related above your work experience, and if there's still a bunch of space left, talk about the jobs you've had in the recent past and the skills you used there. There are probably things you did that have skills that translate to working a tech job - leadership, navigating new situations, problem solving, working under pressure, etc.</li>
+</ul>
+<p>Education</p>
+<ul>
+<li>Where this goes depends on how well known your school is and how much it'll help sell you compared to your other projects. In general, the order of sections on your resume should go from most impressive (and therefore likely to get you to the next stage) to least impressive, since whoever is reading your resume will likely scan it from top to bottom and might make a decision before they get to the bottom</li>
+<li>If you're applying through a school specific application process (e.g. Waterloo's coop system) everyone has the same education which means it doesn't make your resume stand out at all - so put it near the bottom</li>
+</ul>
+<p>Projects</p>
+<ul>
+<li>If you don't have work experience, work on some small tech projects you can highlight at the top of your resume as proof of your skills.</li>
+<li>See <a href="../side_projects/">the page on side projects</a> for more info</li>
+<li>If you have a lot of projects, pick your favourite 3-4 for your resume; it might seem like having 7 projects looks impressive but unless they're all super impressive it just looks like filler - on your resume you always want quality over quantity</li>
+</ul>
+<p>Awards / Scholarships</p>
+<ul>
+<li>If you have any impressive looking awards/scholarships, definitely mention them</li>
+</ul>
+<p>Volunteer experience</p>
+<ul>
+<li>This is especially helpful if you have less work experience</li>
+<li>In my first year of school, I volunteered at some CS workshops (less than a day's commitment each) and put those on my resume</li>
+</ul>
+<p>Small section for your other interests</p>
+<ul>
+<li>I like to put that I sing in choirs and involved with certain clubs - it's important to me to have a life outside of CS-y things, and many employers appreicate this too. Some will talk about them a bit during interviews to break the ice!</li>
+</ul>
+<p><strong>Note</strong>: You don't need all these sections and don't have to do them the way I advise!! Think about what skills you have that you can bring to this job, and find the things in your life that most prove you're qualified and figure out the best way to organize those things on your resume. Everyone is different, so everyone has a slightly different resume that will advertise them best.</p>
+<p>I'd recommend checking out other people's resumes too, as some of them have sections in their resumes that I don't personally use - these are just the sections that I like and work best for me.</p>
+<h3 id="how-to-talk-about-things">How to talk about things</h3>
+<ul>
+<li>use action verbs - they help describe the skills you've used, and starting bullet points with them helps keep your descriptions short and powerful - Google "action verbs" to find a bunch of lists of words to use</li>
+<li>add dates when possible - for work experience, projects, volunteering, etc.</li>
+<li>bullet points should be concise and easy to scan, so ideally only one line long and rarely longer than two lines</li>
+<li>if you have more than 4 bullet points for one section, it'll become a big block of text and will become harder to scan as well</li>
+</ul>
+<h3 id="on-how-old-your-points-can-be">On how old your points can be</h3>
+<p>Once you're 2 years into university, I'd say don't talk about high school at all unless (1) you have very few things to say about your last two years or (2) your high school accomplishments are extremely impressive</p>
+<h3 id="formatting">Formatting</h3>
+<p>Consistency:</p>
+<ul>
+<li>use periods at the end of bullet points or don't, but don't mix them</li>
+<li>make sure your dates are in the same format (e.g. Aug 2017 or September '17)</li>
+<li>in general, the way you format each section and the way you talk about things should be consistent - this makes it easy to find information and to scan your resume</li>
+<li>in case you're thinking this right now - yes I could have better consistency in this guide because I'm not alawys doing the things I literally just mentioned ...but it's a lot harder for a thing this big and I guess I don't care enough ^_^</li>
+</ul>
+<p>Keep it simple:</p>
+<ul>
+<li>The more different formatting styles there are (bold, italics, different text sizes, different fonts, different colours, use of capital letters) the more work your brain does to make sense of it all. Having a few styles is helpful for differentiating headings/bullet points/important words (if you want), but keep it minimal or your resume becomes harder to scan</li>
+</ul>
+<p>Make sure you can print your resume:</p>
+<ul>
+<li>margins should be wide enough that things aren't cut off</li>
+<li>if you use colour, make sure it prints clearly enough in black and white</li>
+</ul>
+<h3 id="link-to-stuff">Link to stuff!</h3>
+<p>I'm all about hyperlinks everywhere.</p>
+<p>If you have projects on GitHub (if you don't, but have proejcts, make an account and put them on GitHub!) link to it at the top of your resume, but also link to your project in that section on your resume.</p>
+<p>If you've written a blog post about a project, link to it. If you have a website, link to it at the top of your resume. Add your linkedin. Add your email. Make it all clickable! If you worked at a company that has a website, link to that too.</p>
+<p>If you really want someone to be able to visit your link, even if they've printed your resume, make a short link (so it's easier to copy out) and explictly paste it in your resume. In other places you can just hyperlink text as bonus information if someone happens to hover over that area.</p>
+<p>More resources about resumes:</p>
+<ul>
+<li><a href="https://docs.google.com/document/d/1iMMQCuHFY5ocwAJSrnAIfz5o23CYYsT0EPtlYTaj9Bs/pub">something I wrote a while ago about resumes</a> (there's some stuff I haven't put here yet)</li>
+<li><a href="https://evykassirer.com/resume">my resume if you're curious what it looks like</a></li>
+</ul>
+              
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../references/" title="References" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                References
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../side_projects/" title="Side projects" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Side projects
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            © Evy Kassirer
+          </div>
+        
+        powered by
+        <a href="http://www.mkdocs.org" title="MkDocs">MkDocs</a>
+        and
+        <a href="http://squidfunk.github.io/mkdocs-material/" title="Material for MkDocs">
+          Material for MkDocs</a>
+      </div>
+      
+        
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../assets/javascripts/application-30ac6a1727.js"></script>
+      <script>app.initialize({url:{base:"../.."}})</script>
+      
+    
+    
+      
+    
+  </body>
+</html>

@@ -1,4 +1,4 @@
-# playing-the-internship-game
+# Playing the Internship Game
 
 ### The rules, tips, and tricks I've learned on how to approach tech internships
 
@@ -11,5 +11,3 @@ I also want to note that just because I've learned that something is the most ef
 If you have a question, [open an issue](https://github.com/evykassirer/playing-the-internship-game/issues/new) with it and I'll try to add the answer in here somewhere. If you'd like to ask a question anonymously, or just less publicly, you can also fill out [this form](https://goo.gl/forms/jdmIcCBQcbBf5P5w1)
 
 If you have advice to add, please feel free to open a pull request!
-
-Documentation located inside the ```docs``` folder

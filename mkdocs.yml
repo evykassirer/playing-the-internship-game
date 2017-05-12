@@ -1,0 +1,33 @@
+# Project information
+site_name: Playing the Internship Game
+site_description: 'A tutorial to python'
+site_author: 'Evy Kassirer'
+
+# Repository
+repo_name: 'GitHub'
+repo_url: 'https://github.com/evykassirer/playing-the-internship-game'
+
+# Copyright
+copyright: © Evy Kassirer
+
+# Documentation and theme
+theme: 'material'
+
+# Options
+extra:
+  palette:
+    primary: 'blue'
+    accent: 'light blue'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  i18n:
+    prev: 'Previous'
+    next: 'Next'
+  author:
+    github: 'evykassirer'
+
+
+# Extensions
+markdown_extensions:
+  - admonition
