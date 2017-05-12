@@ -11,3 +11,10 @@ I also want to note that just because I've learned that something is the most ef
 If you have a question, [open an issue](https://github.com/evykassirer/playing-the-internship-game/issues/new) with it and I'll try to add the answer in here somewhere. If you'd like to ask a question anonymously, or just less publicly, you can also fill out [this form](https://goo.gl/forms/jdmIcCBQcbBf5P5w1)
 
 If you have advice to add, please feel free to open a pull request!
+
+### Creators
+
+- [Evy Kassirer](http://www.evykassirer.com/)
+	- Wrote all the content and came up with the idea
+- [Ronak Shah](https://ronakshah.net)
+	- Created the website
