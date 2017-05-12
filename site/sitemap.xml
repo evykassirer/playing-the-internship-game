@@ -20,7 +20,43 @@
     
         
     <url>
-     <loc>/After-The-Offer/salary_and_negotiating/</loc>
+     <loc>/1-Applying/finding_companies_to_apply_to/</loc>
+     <lastmod>2017-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/1-Applying/how_to_apply/</loc>
+     <lastmod>2017-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/1-Applying/keeping_track_of_applications/</loc>
+     <lastmod>2017-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/1-Applying/references/</loc>
+     <lastmod>2017-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/1-Applying/resumes/</loc>
+     <lastmod>2017-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/1-Applying/side_projects/</loc>
+     <lastmod>2017-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/1-Applying/when_to_apply/</loc>
      <lastmod>2017-05-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -30,43 +66,25 @@
     
         
     <url>
-     <loc>/Applying/finding_companies_to_apply_to/</loc>
+     <loc>/2-Interviews/answering_technical_questions/</loc>
      <lastmod>2017-05-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/Applying/how_to_apply/</loc>
+     <loc>/2-Interviews/general_interview/</loc>
      <lastmod>2017-05-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/Applying/keeping_track_of_applications/</loc>
+     <loc>/2-Interviews/preparing_for_interviews/</loc>
      <lastmod>2017-05-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/Applying/references/</loc>
-     <lastmod>2017-05-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Applying/resumes/</loc>
-     <lastmod>2017-05-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Applying/side_projects/</loc>
-     <lastmod>2017-05-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/Applying/when_to_apply/</loc>
+     <loc>/2-Interviews/questions_to_ask_the interviewer/</loc>
      <lastmod>2017-05-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -76,31 +94,7 @@
     
         
     <url>
-     <loc>/At-the-Internship/1_on_1s_and_feedback/</loc>
-     <lastmod>2017-05-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/At-the-Internship/asking_questions/</loc>
-     <lastmod>2017-05-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/At-the-Internship/coworker_relationships/</loc>
-     <lastmod>2017-05-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/At-the-Internship/keeping_an_internship_summary/</loc>
-     <lastmod>2017-05-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/At-the-Internship/meetings/</loc>
+     <loc>/3-After-The-Offer/salary_and_negotiating/</loc>
      <lastmod>2017-05-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -110,25 +104,31 @@
     
         
     <url>
-     <loc>/Interviews/answering_technical_questions/</loc>
+     <loc>/4-At-The-Internship/1_on_1s_and_feedback/</loc>
      <lastmod>2017-05-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/Interviews/general_interview/</loc>
+     <loc>/4-At-The-Internship/asking_questions/</loc>
      <lastmod>2017-05-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/Interviews/preparing_for_interviews/</loc>
+     <loc>/4-At-The-Internship/coworker_relationships/</loc>
      <lastmod>2017-05-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/Interviews/questions_to_ask_the interviewer/</loc>
+     <loc>/4-At-The-Internship/keeping_an_internship_summary/</loc>
+     <lastmod>2017-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/4-At-The-Internship/meetings/</loc>
      <lastmod>2017-05-11</lastmod>
      <changefreq>daily</changefreq>
     </url>

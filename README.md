@@ -1,4 +1,4 @@
-# A Guide To All Things Internships
+# playing-the-internship-game
 
 Checkout a [website version](https://evykassirer.github.io/playing-the-internship-game) of this created by [Ronak Shah](https://ronakshah.net)
 
