@@ -1,7 +1,7 @@
 # Project information
 site_name: A Guide To All Things Internships
-site_description: 'Internship Guide'
-site_author: 'Evy Kassirer and Ronak Shah'
+site_description: 'A guide to all things internships'
+site_author: 'Evy Kassirer'
 
 # Repository
 repo_name: 'GitHub'
@@ -11,19 +11,10 @@ repo_url: 'https://github.com/evykassirer/playing-the-internship-game'
 copyright: © Evy Kassirer
 
 # Documentation and theme
-theme: 'material'
+theme: 'readthedocs'
 
 # Options
 extra:
-  palette:
-    primary: 'blue'
-    accent: 'light blue'
-  font:
-    text: 'Roboto'
-    code: 'Roboto Mono'
-  i18n:
-    prev: 'Previous'
-    next: 'Next'
   author:
     github: 'evykassirer'
 
