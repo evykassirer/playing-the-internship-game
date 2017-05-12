@@ -1,6 +1,4 @@
-# playing-the-internship-game
-
-Checkout a [website version](https://evykassirer.github.io/playing-the-internship-game) of this created by [Ronak Shah](https://ronakshah.net)
+# Playing the Internship Game
 
 ### The rules, tips, and tricks I've learned on how to approach tech internships
 
@@ -14,3 +12,9 @@ If you have a question, [open an issue](https://github.com/evykassirer/playing-t
 
 If you have advice to add, please feel free to open a pull request!
 
+### Creators
+
+- [Evy Kassirer](http://www.evykassirer.com/)
+	- Wrote all the content and came up with the idea
+- [Ronak Shah](https://ronakshah.net)
+	- Created the website
