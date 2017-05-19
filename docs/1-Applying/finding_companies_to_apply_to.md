@@ -30,4 +30,6 @@ Ask your friends where they've worked and what companies they'd recommend and ho
 
 ### Your peers
 
-You can also ask advice from people in your classes or that go to your school that you don't know! Be mindful that they might not have time to help you out, but my opinion is that it doesn't hurt to ask as long as you're okay with the possibility that they don't have the time/energy/interest to reply.
+You can also ask advice from people in your classes or that go to your school that you don't know! Be mindful that they might not have time to help you out, but my opinion is that it doesn't hurt to ask as long as you're okay with the possibility that they don't have the time/energy/interest to reply. When that happens, it's usually not personal. You probably just got unlucky and asked at a time when they were really busy.
+
+It's worth gathering information about the job market and job opportunities on an ongoing basis. When you meet other students with internship experience (especially upper-year ones) on an average day, you can ask them about their time at their company. This way, you might learn about companies that you never knew existed, or get insight into the recruiting process.
