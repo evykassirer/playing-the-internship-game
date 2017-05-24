@@ -14,8 +14,8 @@ This is only the first step to applying for jobs — if you have a weak resu
 
 - Goal: prove you're qualified and would be nice to work with
 - How you'll do it:
-   - make your resume easy to scan
-   - clearly and concisely demonstrate your qualifications
+    - make your resume easy to scan
+    - clearly and concisely demonstrate your qualifications
 
 ### Start early!
 
