@@ -13,6 +13,9 @@ I won't talk that much about what 1:1s are or what you can do with them, since t
 
 I guess before assuming you're gonna have 1:1s with your supervisor/mentor I should realize that not everyone will have this setup. But I'd really strongly recommend it - it's very common accross tech and has been very important for my own growth and for my contributions to the companies I've worked at. If you don't have 1:1s at your company, consider convincing them to have them.
 
+### Ask questions in your 1:1s
+
+Sometimes your manager won't come prepared with things to talk about. You can still learn a lot from them by preparing questions to ask and things to talk about. Here's [a list of questions I liked](http://a16z.com/2012/08/30/one-on-one/)
 
 ### How to get good feedback/advice in your 1:1s
 
