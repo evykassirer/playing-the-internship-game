@@ -17,3 +17,7 @@ If you do happen have a lot of time on your hands that you want to spend on side
 I've never done this. That's more technical work outside of school/jobs than I'd want to do. But it does work for some people!
 
 But know that you don’t have to build something super fancy complicated. You can create something through a course (like this [Udacity web development course](https://www.udacity.com/course/web-development--cs253)) or make a game like hangman or build a calculator or whatever else you can think of. You’ll be surprised how complicated “simple projects” can be and how much you can learn. That’s what employers want to see.
+
+### Open Source
+
+One underrated form of getting experience is contributing to open source projects. Open source projects are codebases that anyone can see, use, and contribute to. Contributing to projects exposes you to git, code reviews (and writing good code), communication with other engineers, and more. If you're interested in a particular technology, check out what open source projects use it that you could contribute to! Open source contribution is actually very similar to an internship in terms of what you can learn (...but in most cases no one's being paid to do work or manage people so the pace will likely be slower and mentorship/conversation will likely be less)
