@@ -10,6 +10,7 @@ You can often find lists online of companies hiring for summer internships. Inte
 - https://www.indeed.com/
 - https://breakoutlist.com/all
 - https://www.wayup.com/
+- Hacker News. For the latest monthly list, search for "Ask HN: Who is hiring? (<month> <year>)". For example, "Ask HN: Who is hiring? (February 2017)".
 - TODO: add some links to lists people often use (idk, can some people recommend? I haven't used these much)
 
 ### Join Facebook groups (and mailing lists, slack channels, whatever is out there) that have job postings.
