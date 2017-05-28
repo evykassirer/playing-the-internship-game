@@ -19,10 +19,14 @@ You can often find lists online of companies hiring for summer internships. Inte
 - [https://www.facebook.com/groups/ncwandintern/?ref=br_rs](https://www.facebook.com/groups/ncwandintern/?ref=br_rs)
 - etc... you should also check out intern groups relevant to your school! they probably exist
 
-
 ### Google it
 
-Sometimes I just google "hiring interns" (usually adding a preferred location and/or an industry I'd like to work in) and see what shows up! This works pretty well too
+Information about available opportunities is scattered throughout the Internet moves around a lot. Sometimes I just google "hiring interns" (adding a few more specific terms) and see what shows up! This works pretty well too.
+
+The more specific the query, the more likely you can find something useful. Try different combinations of queries that include some of the below:
+- What you're looking for. It can be "tech company internships", "hiring programming intern", etc. Since not all companies have internship positions advertised, you may want to just search for "tech company" and manually find someone to contact on their website.
+- The specific industry you are looking for. For example, "biotech company", "gaming studio", "app development shop", "data analytics provider", etc.
+- A specific city. Beyond the Bay Area, there are many smaller tech hubs in the US and Canada. You can search for internships in <your city>, <a big city near you>, New York, Seattle, Boston, Portland, Austin, Pittsburg, Boulder, Washington, Waterloo, Toronto, Vancouver, Montreal. Outside of North America, tech hubs include London, Dublin, Berlin, Amsterdam, Singapore, Taipei, Hong Kong, and probably a lot more that I don't know.
 
 ### Your friends
 
