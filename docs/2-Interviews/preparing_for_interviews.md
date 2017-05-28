@@ -40,6 +40,19 @@ Things that are not that important unless you have time:
 
 (The lists above are work in progress and NOT comprehensive. Submit a GitHub issue if you want to ask about a particular concept)
 
+### Know what your weaknesses are
+
+And work on them!
+
+- Have you only done assignments and/or academic work? Make sure to practice writing programs from scratch that compiles and runs. Make sure to familiarize yourself with the tools and libraries of your prefered language.
+- Have you mostly done web development written business logic? Make sure to practice breaking down large problem into smaller pieces and practice algorithms. Write code that isn't just about putting together APIs.
+- Do you make a lot of mistakes while coding and need several debugging passes to get a program right?
+  - If those tend to be type errors (e.g. `TypeError: unsupported operand type(s) for -: 'tuple' and 'tuple'`) and you haven't used a typed language yet, learn one
+  - If you do know a typed language, try a functional language like Scala, F#, OCaml or Haskell that require you to do more thinking upfront. Those languages are difficult to get to compile but when they compile, they tend to just work.
+- Have you only used a typed language? Try a dynamic one.
+- Have you only used a high-level language? Write some C/C++ to practice understanding pointers.
+- Have you only worked on large codebases? Try implementing something from scratch.
+
 ### Practice makes perfect!
 
 But **please please please** don't overdo it. It's so easy to feel like you can just keep preparing and studying and getting better - you can sink hours and hours and days and weeks into this, and it's not worth it. Being happy, spending time with friends, doing your assignments, etc are all very important. Definitely practice, it will help you feel more comfortable. But don't let it take over your life.
