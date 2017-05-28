@@ -12,6 +12,34 @@ Be prepared to:
 - talk about and work towards writing an algorithm to solve a problem, during the interview
 - you can also expect a “tell me about yourself” question (so be prepared!) and some time where they tell you about their company
 
+### What material should I know?
+
+This is a difficult question to answer. The more you know, the fewer the number of weak points that could trip you up. Knowing more things is a good thing in general, you shouldn't learn things just for interviews.
+
+That being said, you have limited time to learn things so you probably want the biggest bang for the buck.
+
+Things that interviewers will expect you to know:
+- Understanding O() analysis
+- Arrays vs linked-list
+- Stacks and queues
+- Dictionaries (one of the most used data structures in interviews)
+- Being able to traverse a binary search tree recursively.
+
+Things that are quite useful:
+- Be able to give a 5 minute answer the question "how does the internet work?" or "what happens when I type google.com in the URL bar and press enter?"
+- Breadth-first search and depth-first search on graphs
+- Being able to add and remove a node from a non-balanced binary search tree.
+- Using a heap, having an idea of how they are implemented.
+- Being able to implement quicksort and mergesort
+- Dynamic programming (most advanced concept you'll probably need to know, some companies like Google love dynamic programming questions)
+- Tries, how to use them (also relatively more advanced but they do show up not infrequently)
+
+Things that are not that important unless you have time:
+- Any graph algorithm more advanced than Djikstra search
+- Being able to implement a balanced binary search tree from scratch
+
+(The lists above are work in progress and NOT comprehensive. Submit a GitHub issue if you want to ask about a particular concept)
+
 ### Practice makes perfect!
 
 But **please please please** don't overdo it. It's so easy to feel like you can just keep preparing and studying and getting better - you can sink hours and hours and days and weeks into this, and it's not worth it. Being happy, spending time with friends, doing your assignments, etc are all very important. Definitely practice, it will help you feel more comfortable. But don't let it take over your life.
