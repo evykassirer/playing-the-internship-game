@@ -26,25 +26,6 @@ Start on your resume at least a month before applying for jobs so you have time 
 
 This is a verrry important step and why it's good to start early. Go to resume critique sessions if your school holds them and ask your peers or more folks to look over your resume. Post your resume on Facebook and just keep asking people to edit it. I know it's scary to expose yourself like that, but having other people look over your resume is so so useful and helpful. If you can push your comfort levels a little, I think it will be worth it. If other students are critical of your resume, it can be a little disappointing but otherwise, no harm is done. If a recruiter is critical of your resume, you won't get the job and won't even know why!
 
-
-### Show don't tell
-
-As much as possible, don't list your skills without context proving you have them. Anyone can write "good communicator" on their resume, and unless you talk about something you did that needed very good communication skills, that line is essentially useless. In general, just don't list "good communicator" as a skill and instead talk about your communication skills when you talk about your experience. This is also true for a lot of soft skills such as "effective team member" or "strong personal leadership".
-
-Similarily, show that you know programming languages by mentioning them in the work you've done with them and don't just list a bunch of them at the top of your resume. It's useful to have them all in one place of course. But as a general rule of thumb, any language/technology/acronym that you put in a list should also appear elsewhere on your resume.
-
-(There are some exceptions to this. For example, you might want to include Haskell to show that you like to challenge yourself intellectually, but your largest Haskell project is smaller than all your other projects. It's fine to include Haskell, as long as you are able to explain how you've used Haskell during an interview if asked. In general though, you should be able to talk about anything on your resume during an interview).
-
-### Length
-
-One page is generally considered best, but I've had a two page resume in the past and know plenty of people that have done well with two page resumes. In general, I'd say if you have a two page resume, you should make sure it's okay if they only read the first page (i.e. the second page is like "bonus extra stuff about me").
-
-I like the idea of the one page resume because (1) people might not look at it long enough to even see the second page and (2) if you spread out your information accross two pages, you'll probably have less concentration of the good stuff. If you have a 2+ page resume, pick your best selling points accross those multiple pages and put just those on one page.
-
-In general, it might seem like writing more will make you seem more impressive, but if you write tons and tons only to fill space, it won't be impressive because it will be obvious that it's just filler. Short resumes clearly and concisely demonstrate your qualifications and are easier for a recruiter or potential employer to scan and understand. You do not want to dilute your impressive accomplishments in a sea of boring details!
-
-How do you know if you're being too verbose? If you do have a two-page resume, you should definitely at least do the exercise of shortening it until it fits into one page. Just think of it as a way to practice being concise, and ask your friends to cross out what they think is the least interesting if needed. You might not like the end result and decide not to keep it. That's fine. But you might also find out that it works just fine.
-
 ### Sections in your resume
 
 Header
@@ -89,13 +70,44 @@ Small section for your other interests
 
 I'd recommend checking out other people's resumes too, as some of them have sections in their resumes that I don't personally use - these are just the sections that I like and work best for me.
 
+### Show don't tell
+
+As much as possible, don't list your skills without context proving you have them. Anyone can write "good communicator" on their resume, and unless you talk about something you did that needed very good communication skills, that line is essentially useless. In general, just don't list "good communicator" as a skill and instead talk about your communication skills when you talk about your experience. This is also true for a lot of soft skills such as "effective team member" or "strong personal leadership".
+
+Similarily, show that you know programming languages by mentioning them in the work you've done with them and don't just list a bunch of them at the top of your resume. It's useful to have them all in one place of course. But as a general rule of thumb, any language/technology/acronym that you put in a list should also appear elsewhere on your resume.
+
+(There are some exceptions to this. For example, you might want to include Haskell to show that you like to challenge yourself intellectually, but your largest Haskell project is smaller than all your other projects. It's fine to include Haskell, as long as you are able to explain how you've used Haskell during an interview if asked. In general, you should be able to talk about anything on your resume during an interview).
+
+### Length
+
+One page is generally considered best, but I've had a two page resume in the past and know plenty of people that have done well with two page resumes. In general, I'd say if you have a two page resume, you should make sure it's okay if they only read the first page (i.e. the second page is like "bonus extra stuff about me").
+
+I like the idea of the one page resume because (1) people might not look at it long enough to even see the second page and (2) if you spread out your information accross two pages, you'll probably have less concentration of the good stuff. If you have a 2+ page resume, pick your best selling points accross those multiple pages and put just those on one page.
+
+In general, it might seem like writing more will make you seem more impressive, but if you write tons and tons only to fill space, it won't be impressive because it will be obvious that it's just filler. Short resumes clearly and concisely demonstrate your qualifications and are easier for a recruiter or potential employer to scan and understand. You do not want to dilute your impressive accomplishments in a sea of boring details!
+
+How do you know if you're being too verbose? If you do have a two-page resume, you should definitely at least do the exercise of shortening it until it fits into one page. Just think of it as a way to practice being concise, and ask your friends to cross out what they think is the least interesting if needed. You might not like the end result and decide not to keep it. That's fine. But you might also find out that it works just fine.
+
+It's useful to pay attention to the _information density_ of each of your sentences. How much information do I provide the reader? You can do this analysis on a word-by-word level. Here are a few examples inspired by resumes I've seen in real life.
+
+- _Worked with clients [extensively] during the planning, design, and execution phases [with the goal of producing a quality product]_. Note how the words and phrases between brackets could be removed with no loss of information. Most of the time, you can infer that you were trying to create a product
+- _Demonstrated outstanding communication skills during tutoring [by assisting with questions, teaching many efficient problem-solving methods and helping clear up concepts seen in class]_. Note how most of this sentence just defines what tutoring is.
+
+Another example is from a web design instructor position:
+- _Taught introductory web development and design classes to students [with minimal prior programming experience]_. This is implied by "introductory".
+- _Created a curriculum [with the goal of fostering creativity and better understanding of website development through web language applications]_. The key information this sentence adds is that the person not only taught a class, but designed some parts of it. However, it should be obvious that some web language had to be used and understood.
+- _Communicated ideas and concepts clearly while reviewing the main principles to build a solid foundation in web development_. This sentence provides no information. In the first half, it's expected that a teacher would communicate clearly, it's not worth mentioning unless you have concrete evidence that demonstrates the teaching quality. The second half is already part of teaching a class.
+- _Delivered lessons on using HTML, CSS and general web design principles_. This provides some information about what was taught concretely, though largely guessable.
+
+The above could be condensed into "Designed and taught an introductory class on web design using HTML and CSS. Learned how to communicate concepts clearly to students with no prior experience".
+
+
 ### How to talk about things
 
 - use action verbs - they help describe the skills you've used, and starting bullet points with them helps keep your descriptions short and powerful - Google "action verbs" to find a bunch of lists of words to use
 - add dates when possible - for work experience, projects, volunteering, etc.
 - bullet points should be concise and easy to scan, so ideally only one line long and rarely longer than two lines
 - if you have more than 4 bullet points for one section, it'll become a big block of text and will become harder to scan as well. You should rarely need that many bullet points
-
 
 ### Formatting
 
@@ -104,7 +116,7 @@ Consistency:
 - use periods at the end of bullet points or don't, but don't mix them
 - make sure your dates are in the same format (e.g. Aug 2017 or September '17)
 - in general, the way you format each section and the way you talk about things should be consistent - this makes it easy to find information and to scan your resume
-- in case you're thinking this right now - yes I could have better consistency in this guide because I'm not alawys doing the things I literally just mentioned ...but it's a lot harder for a thing this big and I guess I don't care enough ^_^
+- in case you're thinking this right now - yes I could have better consistency in this guide because I'm not alawys doing the things I literally just mentioned ...but it's a lot harder for a thing this big and I guess I don't care enough ^.^
 
 Grammar:
 - [It matters a lot](http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/)
