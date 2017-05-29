@@ -4,20 +4,19 @@
 
 You can often find lists online of companies hiring for summer internships. Internships at other times of the year can be trickier, but you can always email companies that do summer internships and ask if they'll hire at other times of the year.
 
-- [http://www.intern.supply/](http://www.intern.supply/)
-- https://www.facebook.com/careers/university/?refid=8&__tn__=R
-- Research: https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5049
-- https://www.indeed.com/
-- https://breakoutlist.com/all
-- https://www.wayup.com/
-- Hacker News. For the latest monthly list, search for "Ask HN: Who is hiring? (<month> <year>)". For example, "Ask HN: Who is hiring? (February 2017)".
+- [Intern Supply](http://www.intern.supply/) (links you directly to the application page of a lot of companies)
+- [Research in the US](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5049)
+- [Indeed.com](https://www.indeed.com/) (job board)
+- [Breakout List](https://breakoutlist.com/all) (hot new tech companies)
+- [WayUp](https://www.wayup.com/) (internships)
+- [Hacker News](https://news.ycombinator.com/) (for the latest monthly list, search for "Ask HN: Who is hiring? (<month> <year>)". For example, "Ask HN: Who is hiring? (February 2017)".)
 - TODO: add some links to lists people often use (idk, can some people recommend? I haven't used these much)
 
 ### Join Facebook groups (and mailing lists, slack channels, whatever is out there) that have job postings.
 
-- [https://www.facebook.com/groups/HHinternships/?ref=br_rs](https://www.facebook.com/groups/HHinternships/?ref=br_rs)
-- [https://www.facebook.com/groups/733654363389653/?ref=br_rs](https://www.facebook.com/groups/733654363389653/?ref=br_rs)
-- [https://www.facebook.com/groups/ncwandintern/?ref=br_rs](https://www.facebook.com/groups/ncwandintern/?ref=br_rs)
+- [Hackathon Hackers Internships](https://www.facebook.com/groups/HHinternships)
+- [Hackathon Hackers Internships/Co-ops](https://www.facebook.com/groups/733654363389653)
+- [Bay Area Jobs Network](https://www.facebook.com/groups/ncwandintern)
 - etc... you should also check out intern groups relevant to your school! they probably exist
 
 ### Google it
