@@ -4,15 +4,17 @@ Ah, one of the most scary parts of the internship but also probably the most imp
 
 Ask lots of questions! Ask questions! Did I mention yet that you should ask people questions?
 
-Especially at first, since you probably don't know how most things work yet
+Especially at first, since you probably don't know how most things work yet.
 
 ### Who do you ask?
 
-usually you'd ask your supervisor
-but sometimes to the #engineering slack channel or whatever
-whoever would know the answer
-if you have 1:1s with your supervisor (and if you dont' I'd suggest to try to set them up) you can also ask every week if your questions are too much or not enough and if they're good questions and get advice on that
+Usually you'd ask your supervisor but sometimes to the #engineering slack channel or whatever whoever would know the answer if you have 1:1s with your supervisor (and if you dont' I'd suggest to try to set them up) you can also ask every week if your questions are too much or not enough and if they're good questions and get advice on that.
 
+### What to ask?
+
+Anything! There's no such thing as a stupid question. There's tons of things worth learning about at any company: the business, the team dynamics, the history, the tech stack, etc.
+
+Most companies will have internal documents. These may be guides, how-tos, design documents, reports, etc. They might be stored in a wiki, some shared document repository like Google Docs, Dropbox Paper, Quip, etc. It's worth combing through them to learn as much as you can while you're there, and as a way to find interesting things to ask. Don't rely solely on those documents to learn though, ask questions to other employees even if you've probably seen the answer in the docs. Oftentimes, written docs might be out of date, lack some essential context, hide the fact that people disagreed on the issue, etc.
 
 ### How many questions is too much?
 
@@ -24,6 +26,7 @@ This is a trick question. I don't think there's such thing as too many questions
 - **Could you have used standard debugging/code searching tricks to figure it out?** If you don't know these yet, then ask someone to help you. But notice what stategies they use to figure it out. Next time you have a problem, those same strategies might help.
 - **How long will it take for them to answer your question?** This is often unknown. But try to think of how much questions will bother other ppl vs benefit you. Some quick questions are a small amount of time on their part and a huge benefit to your comfort and ability.
 
+Lunch time tends to be a great time to ask questions, since people aren't focused on their work. Try to Never Eat Alone - there's even a book by that name!
 
 ### At what point of trying to find the answer should you ask?
 
