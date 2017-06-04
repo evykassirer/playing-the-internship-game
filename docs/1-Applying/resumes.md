@@ -7,7 +7,7 @@ There are a lot of opinions on resumes. Many of them conflict with each other. H
 
 ### Why resumes are important
 
-This is only the first step to applying for jobs. If you have a weak resume, you don’t even get to the interview part (even if you're super qualified!), so having a good resume is very important. Folks that are hiring often spend only a few seconds looking at your resume, so knowing what they're expecting to see and how to impress them is essential for getting your job.
+This is only the first step to applying for jobs. If you have a weak resume, you don’t even get to the interview part (even if you're super qualified!). So having a good resume is very important. Folks that are hiring often spend only a few seconds looking at your resume, so knowing what they're expecting to see and how to impress them is essential for getting your job.
 
 
 ### Key goals
@@ -74,9 +74,9 @@ I'd recommend checking out other people's resumes too, as some of them have sect
 
 As much as possible, don't list your skills without context proving you have them. Anyone can write "good communicator" on their resume, and unless you talk about something you did that needed very good communication skills, that line is essentially useless. In general, just don't list "good communicator" as a skill and instead talk about your communication skills when you talk about your experience. This is also true for a lot of soft skills such as "effective team member" or "strong personal leadership".
 
-Similarily, show that you know programming languages by mentioning them in the work you've done with them and don't just list a bunch of them at the top of your resume. It's useful to have them all in one place of course. But as a general rule of thumb, any language/technology/acronym that you put in a list should also appear elsewhere on your resume.
+Similarily, show that you know programming languages by mentioning them in the work you've done with them and don't just list a bunch of them at the top of your resume. It's useful to have them all in one place of course. But ideally, languages/technologies/acronyms that you put in a list should also appear elsewhere on your resume.
 
-(There are some exceptions to this. For example, you might want to include Haskell to show that you like to challenge yourself intellectually, but your largest Haskell project is smaller than all your other projects. It's fine to include Haskell, as long as you are able to explain how you've used Haskell during an interview if asked. In general, you should be able to talk about anything on your resume during an interview).
+We say ideally because you might have dabbled in some new technology just to try it (e.g. some Javascript framework, a functional language, some API, etc). That still signals to the employers that you can learn on your own which is great [see side projects](side_projects.md). It's fine to include them, as long as you are able to explain how you've used them during an interview if asked. In general, you should be able to talk about anything on your resume during an interview.
 
 ### Length
 
@@ -88,19 +88,7 @@ In general, it might seem like writing more will make you seem more impressive, 
 
 How do you know if you're being too verbose? If you do have a two-page resume, you should definitely at least do the exercise of shortening it until it fits into one page. Just think of it as a way to practice being concise, and ask your friends to cross out what they think is the least interesting if needed. You might not like the end result and decide not to keep it. That's fine. But you might also find out that it works just fine.
 
-It's useful to pay attention to the _information density_ of each of your sentences. How much information do I provide the reader? You can do this analysis on a word-by-word level. Here are a few examples inspired by resumes I've seen in real life.
-
-- _Worked with clients [extensively] during the planning, design, and execution phases [with the goal of producing a quality product]_. Note how the words and phrases between brackets could be removed with no loss of information. Most of the time, you can infer that you were trying to create a product
-- _Demonstrated outstanding communication skills during tutoring [by assisting with questions, teaching many efficient problem-solving methods and helping clear up concepts seen in class]_. Note how most of this sentence just defines what tutoring is.
-
-Another example is from a web design instructor position:
-- _Taught introductory web development and design classes to students [with minimal prior programming experience]_. This is implied by "introductory".
-- _Created a curriculum [with the goal of fostering creativity and better understanding of website development through web language applications]_. The key information this sentence adds is that the person not only taught a class, but designed some parts of it. However, it should be obvious that some web language had to be used and understood.
-- _Communicated ideas and concepts clearly while reviewing the main principles to build a solid foundation in web development_. This sentence provides no information. In the first half, it's expected that a teacher would communicate clearly, it's not worth mentioning unless you have concrete evidence that demonstrates the teaching quality. The second half is already part of teaching a class.
-- _Delivered lessons on using HTML, CSS and general web design principles_. This provides some information about what was taught concretely, though largely guessable.
-
-The above could be condensed into "Designed and taught an introductory class on web design using HTML and CSS. Learned how to communicate concepts clearly to students with no prior experience".
-
+For more tips on shortening resumes, see [resume information density](resume-information-density.md).
 
 ### How to talk about things
 
@@ -138,11 +126,6 @@ If you've written a blog post about a project, link to it. If you have a website
 If you really want someone to be able to visit your link, even if they've printed your resume, make a short link (so it's easier to copy out) and explictly paste it in your resume. In other places you can just hyperlink text as bonus information if someone happens to hover over that area.
 
 
-More resources about resumes:
-
-- [something I wrote a while ago about resumes](https://docs.google.com/document/d/1iMMQCuHFY5ocwAJSrnAIfz5o23CYYsT0EPtlYTaj9Bs/pub) (there's some stuff I haven't put here yet)
-- [my resume if you're curious what it looks like](https://evykassirer.com/resume)
-
 ### Do not overoptimize
 
 Although resumes are super important, there will be diminishing returns on the amount of time you spend optimizing your resume. If people don't seem to be making major suggestions anymore after a few rounds of review, maybe it's time to move on.
@@ -151,12 +134,17 @@ Don't forget: the advice presented here is about presenting your existing accomp
 
 ### Misc
 
-#### Make sure you can print your resume:
+#### Make sure you can print your resume
 
-Margins should be wide enough that things aren't cut off.
-
-If you use colour, make sure it prints clearly enough in black and white.
+- Margins should be wide enough that things aren't cut off.
+- If you use colour, make sure it prints clearly enough in black and white.
 
 #### On how old your points can be
 
 Once you're 2 years into university, I'd say don't talk about high school at all unless (1) you have very few things to say about your last two years or (2) your high school accomplishments are extremely impressive
+
+#### More resources about resumes
+
+- [something I wrote a while ago about resumes](https://docs.google.com/document/d/1iMMQCuHFY5ocwAJSrnAIfz5o23CYYsT0EPtlYTaj9Bs/pub) (there's some stuff I haven't put here yet)
+- [my resume if you're curious what it looks like](evykassirer.com/resume)
+- [tips from Gayle McDowell](https://www.careercup.com/resume)
