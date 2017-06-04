@@ -16,21 +16,21 @@ It's better to talk about salary on the phone (I know, phone calls suck - but th
 
 ### How much is a dollar worth?
 
-Rudi:
+Some advice from Rudi:
 
 The first time I was paid for work other than mowing the lawn for my parents, it was a mere 200$ for some contract work on the Internet. But wow, that felt like a lot of money. I could buy so many Magic The Gathering Cards!
 
-The second time was a research internship in the summer. It was paid minimum wage, but it more than doubled my bank account.
+The second time was a research internship in the summer. It was paid minimum wage, but it more than doubled my bank account which didn't contain much.
 
-The third time was far less than half of my current salary, but I managed 4 months worth of tuition! (Tuition is cheaper in Canada)
+The third time was half of my current salary, but I managed 4 months worth of tuition! (Tuition is cheaper in Canada)
 
 When you're a student and the most money you've made is from distributing newspapers, the first offer you get can seem like a money. If one company pays an extra 1$/hour more than the other, that's 500$ over a summer. It feels like a pretty big difference. Almost a full iPhone.
 
 And maybe it is for you. Maybe you are struggling to pay off your living expenses and would like to support your family. Do what you need to do.
 
-For everyone else, keep in mind that you are doing an internship to learn, not to get rich. This isn't about how evil money is and all that. It's just that given that you are only working 3-4 months, the difference between your offers will be quite negligible in the long run in most cases. On the other hand, doing to a place with better learning opportunities will often unlock more options for future internships and full-time employment, some of which will pay more. And at that point, the difference will start to be significant, because you'll be working at that place for years. So even if money really is your end goal, think about it over the long run.
+For everyone else, keep in mind that you are doing an internship to learn, not to get rich. This isn't about how evil money is and all that. It's just that given that you are only working 3-4 months, the difference between your offers will be quite negligible in the long run in most cases. On the other hand, doing to a place with better learning opportunities will often unlock more options for future internships and full-time employment, some of which will pay more. And at that point, the difference will start to be significant, because you'll be working at that place for years. So even if money really is your end goal, try to think about it over the long run.
 
-Also, most humans are quite bad at estimating what will make them happy. You should read this [research on money and happiness](https://scholar.harvard.edu/files/danielgilbert/files/if-money-doesnt-make-you-happy.nov-12-20101.pdf).
+Also, most humans are quite bad at predicting what will make them happy. [This research on money and happiness](https://scholar.harvard.edu/files/danielgilbert/files/if-money-doesnt-make-you-happy.nov-12-20101.pdf) has some good life advice.
 
 ### Negotiating
 
@@ -48,7 +48,7 @@ It's difficult to do anything about (1) and (2). If you can demonstrate that you
 
 Case (3) will often be true at well-known, competitive companies. If you don't have a truly extraordinary accomplishment, negotiating might not be seen well.
 
-As a rule of thumb, if internship salary is publicly available for a company, (4) is likely to apply. You'll have a better chance of negotiating at smaller companies with fewer interns. Your negotiation is more likely to be successful if you can give them a story that would justify the salary disparity if other interns were to ever find out. This could include: "you have significantly more work experience", "you are senior", "you are a return intern".
+As a rule of thumb, if internship salary is publicly available for a company, (4) is likely to apply. You'll have a better chance of negotiating at smaller companies with fewer interns. Your negotiation is more likely to be successful if you can give them a story that would justify the salary disparity if other interns were to ever find out. This could include: "you have significantly more work experience", "you are senior", "you are a return intern". You can also try "my other offer/previous salary is higher" though that tends to not work as well for internships.
 
 ### Check out data about salaries
 
