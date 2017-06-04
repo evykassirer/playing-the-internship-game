@@ -1,18 +1,14 @@
 ## Questions to ask the interviewer
 
-At the end of an interview, you're often asked if you have any questions for *them*. It's important to ask some questions as a way of showing interest in the company, and identifying which company would be best suited for you.
+At the end of an interview, you're often asked if you have any questions for *them*. It's important to ask some questions as a way of showing interest in the company, and identifying if the company would be suited for you.
 
 ### Universally useful questions
 
-If you didn't have the time to prepare questions, if you already know everything because this is the 3rd interview with this company and you've already read through their whole website, fear not! Just ask them to talk about themselves. People love talking about themselves, you might not need to do any work at all! Plus, as they talk about themselves, they might say something interesting you can latch on to and converse about.
+Sometimes you don't have a question. Maybe you didn't have the time to prepare questions. Maybe you forgot. Maybe you already know everything because this is the 3rd interview with this company and you've already read through their whole website. Fear not! Just ask them to talk about themselves. People love talking about themselves, you might not need to do any work at all! Plus, as they talk about themselves, they might say something interesting you can latch on to and converse about.
 
 #### Why did you decide to work here?/What do you like best at this company?/What's your story?
 
-In general, I'm curious why people like this company and if reasons they would work there are similar to reasons I'd work there. If they are, that's a plus for me - but if not, we might just be different people so it's not necessarily a negative thing.
-
-#### [Something related to their company]
-
-It's nice to have a question that's totally related to something they do that I'm curious about and want clarification on - it also shows I know stuff about them.
+In general, I'm curious why people like this company and if the reasons they would work there are similar to reasons I'd work there. If they are, that's a plus for me - but if not, we might just be different people so it's not necessarily a negative thing.
 
 ### More of our favourite things to ask
 
@@ -56,3 +52,6 @@ A lot of smaller companies aren't able to focus on these things right away, but 
 
 It's really fun when I get to help make big decisions or have influence on people who make the decisions. This is easier at a smaller company though.
 
+#### [Something related to their company]
+
+It's nice to have a question that's totally related to something they do that I'm curious about and want clarification on - it also shows I know stuff about them.
