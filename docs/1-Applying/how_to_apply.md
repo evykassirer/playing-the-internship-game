@@ -4,16 +4,20 @@
 
 Some companies have a form you fill out and attach your resume to, and this is how you apply to their jobs. Sometimes this is the only way to apply to a company, because they want to keep all the applications together in their system.
 
-Often times, applying through this method lowers your liklihood of them getting back to you. Many many many people are applying for internships and it's a lot of work to get through all those resumes and select who to interview. Often many applications are just never looked at.
+However, this is often not the best way to apply. From the company's perspective, applications received online are lower in quality on average and provide the least amount of information about the applicant. This means that they are less likely to get back to online applicants than applicants they learned about from other places (see below). Many many many people are applying for internships and it's a lot of work to get through all those resumes and select who to interview. Often many applications are just never looked at.
 
 Applying online is definitely worth a shot, but not my recommended method if you can avoid it.
 
 
 ### Talk to the recruiter (or an engineer) in person somehow
 
-This can be at an info session, career fair, intern event, open house, etc. If you can talk to someone that will remember you and give you priority in hiring (in the huge pile of applications they have to go through) then you've succeeded.
+This can be at an info session, career fair, intern event, open house, etc. If you can talk to someone that will remember you and give you priority in hiring (in the huge pile of applications they have to go through) then you've succeeded. Internally, recruiters give higher weight to applications submitted by an employee at the company.
 
-But realize that every other student they're talking to is also trying to be remembered. Do what you can to make yourself stand out. Maybe send a followup email to say it was nice to meet them and let them know you're excited about applying there.
+But realize that every other student they're talking to is also trying to be remembered. Do what you can to make yourself stand out.
+
+To do so, it helps to show that you are interested in _that_ company specifically. Don't just _say_ that you're interested, words are cheap. Take _action_ by doing a little bit of research about the company. That will allow you to ask a question that shows your interest. For example, you can ask them about a project that the company has recently open-sourced, a blog post that they have recently published, etc.
+
+Maybe send a followup email to say it was nice to meet them and let them know you're excited about applying there.
 
 
 ### Email/message someone that works there
@@ -40,4 +44,4 @@ If a friend can refer to you a company (maybe a company they've worked) this can
 
 However - I tend to not ask for referals or give them because I don't work technically with many of my friends. I can vouch for them being kind and thoughtful and hard working (and same for them about me) but neither of us really know how well the other works on technical things and so unless they're a close friend I'd probably feel weird referring them.
 
-What I *have* done (and asked for) is introduced my friends to recruiters, in sort of a "here's my friend they're pretty cool and also interested in your company" and less of a "I recommend this person to work here" kind of way. Maybe this is what most referals are anyways, but there you go.
+What I *have* done (and asked for) is introduced my friends to recruiters, in sort of a "here's my friend they're pretty cool and also interested in your company" and less of a "I recommend this person to work here" kind of way. Even if the most your friend can say about you is that you're a nice person, this is still valuable. Very broadly speaking, most companies look for two things: "this person is technically competent" and "this person will work effectively in a team" (i.e. a fancy way of saying "not an asshole"). A non-technical referral is still useful for the recruiter, since it gives more information about the 'pleasant to work with' point.
