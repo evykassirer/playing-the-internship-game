@@ -2,15 +2,15 @@
 
 At the end of an interview, you're often asked if you have any questions for *them*. It's important to ask some questions as a way of showing interest in the company, and identifying if the company would be suited for you.
 
-### Universally useful questions
-
-Sometimes you don't have a question. Maybe you didn't have the time to prepare questions. Maybe you forgot. Maybe you already know everything because this is the 3rd interview with this company and you've already read through their whole website. Fear not! Just ask them to talk about themselves. People love talking about themselves, you might not need to do any work at all! Plus, as they talk about themselves, they might say something interesting you can latch on to and converse about.
-
 #### Why did you decide to work here?/What do you like best at this company?/What's your story?
 
 In general, I'm curious why people like this company and if the reasons they would work there are similar to reasons I'd work there. If they are, that's a plus for me - but if not, we might just be different people so it's not necessarily a negative thing.
 
-### More of our favourite things to ask
+**This is possibly one of the most universal questions you can ask.** Sometimes you don't have a question. Maybe you didn't have the time to prepare questions. Maybe you forgot. Maybe you already know everything because this is the 3rd interview with this company and you've already read through their whole website. Fear not! Just ask them to talk about themselves.
+
+People love talking about themselves, you might not need to do any work at all! This question tends to elicit longer answer, which gives you time to find a more targeted question. Plus, as they talk about themselves, they might say something interesting you can latch on to and converse about.
+
+It's useful to have a very general question like this as your backup.
 
 #### Does your company have code review?
 
@@ -46,7 +46,7 @@ If they're a US company, since I'm Canadian I'd need them to sponsor a J1 visa f
 
 #### Is your product accessible? How usable is the project by folks who are blind or deaf or have low internet access?
 
-A lot of smaller companies aren't able to focus on these things right away, but I hope that they at least care about and are keeping it in mind in how they're building things now, so that eventually they can have a very accessibile product.
+A lot of smaller companies aren't able to focus on these things right away, but I hope that they at least care about and are keeping it in mind in how they're building things now, so that eventually they can have a very accessible product.
 
 #### How do you decide what the company is working on (e.g. what's built next, or what technology is being used)? Who gets input into these decisions?
 
