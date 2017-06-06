@@ -28,9 +28,9 @@ This is a trick question. I don't think there's such thing as too many questions
 
 ### When to ask?
 
-Sometimes, engineers need concentration and are in the middle of working. Wearing headphones can be a signal of that, but lots of people just like to listen to music and are fine being tapped on the shoulder, it varies by individual. Generally, technical questions that are essential for you to do your job are appropriate to ask at any time unless the engineer is really busy. Sending an email or instant message is often the way to go since it allows people to finish what they're doing.
+Sometimes, engineers need concentration and are in the middle of working. Wearing headphones can be a signal of that, but lots of people just like to listen to music and are fine being tapped on the shoulder, it varies by individual. Generally, technical questions that are essential for you to do your job are appropriate to ask at any time unless the engineer is really busy. Sending an email or instant message is often the way to go since it allows people to finish what they're in the middle of before answering your question.
 
-Lunch time tends to be a great time to ask more general questions, since people aren't focused on their work. There's a book called "Never Eat Alone", apparently that's an useful thing to do.
+Rudi: Lunch time tends to be a great time to ask more general questions, since people aren't focused on their work. It's a great way to get to know people, to hear their personal stories, to learn tidbits about the company, etc. There's a networking benefit to it, and a personal growth benefit to it from getting to know your coworkers better. Not every single lunch will yield something interesting, and you might not always feel like mingling - sometimes I don't feel like chatting. However, consider giving it a try, especially at the beginning of the internship. During my first internship, it didn't occur to me to make an effort, and I definitely missed out on a lot.
 
 ### At what point of trying to find the answer should you ask?
 
