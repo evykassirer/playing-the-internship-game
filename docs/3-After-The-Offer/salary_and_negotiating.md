@@ -48,7 +48,7 @@ It's difficult to do anything about (1) and (2). If you can demonstrate that you
 
 Case (3) will often be true at well-known, competitive companies. If you don't have a truly extraordinary accomplishment, negotiating might not be seen well.
 
-As a rule of thumb, if internship salary is publicly available for a company, (4) is likely to apply. You'll have a better chance of negotiating at smaller companies with fewer interns. Your negotiation is more likely to be successful if you can give them a story that would justify the salary disparity if other interns were to ever find out. This could include: "you have significantly more work experience", "you are senior", "you are a return intern". You can also try "my other offer/previous salary is higher" though that tends to not work as well for internships.
+As a rule of thumb, if internship salary is publicly available for a company, (4) is likely to apply. You'll have a better chance of negotiating at smaller companies with fewer interns. Your negotiation is more likely to be successful if you can give them a story that would justify the salary disparity if other interns were to ever find out. This could include: "you have significantly more work experience", "you are senior", "you are a return intern". You can also try "my other offer/previous salary was higher" though that is less likely to work for internship than full-time positions, especially at larger companies that have dedicated internship programs.
 
 ### Check out data about salaries
 
