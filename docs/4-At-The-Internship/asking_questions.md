@@ -4,15 +4,17 @@ Ah, one of the most scary parts of the internship but also probably the most imp
 
 Ask lots of questions! Ask questions! Did I mention yet that you should ask people questions?
 
-Especially at first, since you probably don't know how most things work yet
+Especially at first, since you probably don't know how most things work yet.
 
 ### Who do you ask?
 
-usually you'd ask your supervisor
-but sometimes to the #engineering slack channel or whatever
-whoever would know the answer
-if you have 1:1s with your supervisor (and if you dont' I'd suggest to try to set them up) you can also ask every week if your questions are too much or not enough and if they're good questions and get advice on that
+Often you'd ask your supervisor, but it's also common for people to ask questions to the #engineering slack channel (or wherever the online-chat place is with people who'd know the answer). If you have 1:1s with your supervisor you can also ask questions then. If you don't, I'd suggest to try to set them up. I also like to ask every week if I'm asking too many questions or not enough, and if they're good questions and get advice on that.
 
+### What to ask?
+
+Anything! There's no such thing as a stupid question. There's tons of things worth learning about at any company: the business, the team dynamics, the history, the tech stack, etc.
+
+Most companies will have internal documents. These may be guides, how-tos, design documents, reports, etc. They might be stored in a wiki, some shared document repository like Google Docs, Dropbox Paper, Quip, etc. It's worth combing through them to learn as much as you can while you're there, and as a way to find interesting things to ask. Don't rely solely on those documents to learn though, ask questions to other employees even if you've probably seen the answer in the docs. Oftentimes, written docs might be out of date, lack some essential context, hide the fact that people disagreed on the issue, etc.
 
 ### How many questions is too much?
 
@@ -24,6 +26,11 @@ This is a trick question. I don't think there's such thing as too many questions
 - **Could you have used standard debugging/code searching tricks to figure it out?** If you don't know these yet, then ask someone to help you. But notice what stategies they use to figure it out. Next time you have a problem, those same strategies might help.
 - **How long will it take for them to answer your question?** This is often unknown. But try to think of how much questions will bother other ppl vs benefit you. Some quick questions are a small amount of time on their part and a huge benefit to your comfort and ability.
 
+### When to ask?
+
+Sometimes, engineers need concentration and are in the middle of working. Wearing headphones can be a signal of that, but lots of people just like to listen to music and are fine being tapped on the shoulder, it varies by individual. Generally, technical questions that are essential for you to do your job are appropriate to ask at any time unless the engineer is really busy. Sending an email or instant message is often the way to go since it allows people to finish what they're in the middle of before answering your question.
+
+Rudi: Lunch time tends to be a great time to ask more general questions, since people aren't focused on their work. It's a great way to get to know people, to hear their personal stories, to learn tidbits about the company, etc. There's a networking benefit to it, and a personal growth benefit to it from getting to know your coworkers better. Not every single lunch will yield something interesting, and you might not always feel like mingling - sometimes I don't feel like chatting. However, consider giving it a try, especially at the beginning of the internship. During my first internship, it didn't occur to me to make an effort, and I definitely missed out on a lot.
 
 ### At what point of trying to find the answer should you ask?
 

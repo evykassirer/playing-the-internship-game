@@ -13,6 +13,8 @@ It's really nice to see what I've gotten done, and be like "yes I did do things!
 
 And it's also nice to keep track of all the things I want to work on. Having them written down makes it easier to go back later and ask my mentor how I'm doing.
 
+Another personal benefit is that it helps you remember what you've done during your internship, which is useful a year later when you have to write a new resume or talk about your previous job during an interview.
+
 Here are some excerpts from one of my internships, to give you an idea:
 
 ----
