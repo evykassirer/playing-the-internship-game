@@ -4,6 +4,7 @@
 
 You can often find lists online of companies hiring for summer internships. Internships at other times of the year can be trickier, but you can always email companies that do summer internships and ask if they'll hire at other times of the year.
 
+- [InternCompass](https://interncompass.io) (internship reviews and links to application pages)
 - [Intern Supply](http://www.intern.supply/) (links you directly to the application page of a lot of companies)
 - [Research in the US](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=5049)
 - [Indeed.com](https://www.indeed.com/) (job board)
