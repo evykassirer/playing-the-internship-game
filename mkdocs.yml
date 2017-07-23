@@ -18,7 +18,35 @@ extra:
   author:
     github: 'evykassirer'
 
-
 # Extensions
 markdown_extensions:
   - admonition
+
+# Specify the pages (so that they can be ordered)
+pages:
+    - Home: index.md
+    - Resources: resources.md
+    - 1. Applying:
+        - When to apply: 1-Applying/when_to_apply.md
+        - Finding companies to apply to: 1-Applying/finding_companies_to_apply_to.md
+        - How to apply: 1-Applying/how_to_apply.md
+        - References: 1-Applying/references.md
+        - Resumes: 1-Applying/resumes.md
+        - Resume information density: 1-Applying/resume_information_density.md
+        - Side projects: 1-Applying/side_projects.md
+        - Keeping track of applications: 1-Applying/keeping_track_of_applications.md
+    - 2. Interviews:
+        - Preparing for interviews: 2-Interviews/preparing_for_interviews.md
+        - Answering technical questions: 2-Interviews/answering_technical_questions.md
+        - General interview advice: 2-Interviews/general_interview.md
+        - Questions to ask the interviewer: 2-Interviews/questions_to_ask_the_interviewer.md
+    - 3. After the offer:
+        - Salary and negotiating: 3-After-The-Offer/salary_and_negotiating.md
+    - 4. At the internship:
+        - Asking questions: 4-At-The-Internship/asking_questions.md
+        - Coworker relationships: 4-At-The-Internship/coworker_relationships.md
+        - Meetings: 4-At-The-Internship/meetings.md
+        - Keeping an internship summary: 4-At-The-Internship/keeping_an_internship_summary.md
+        - 1-on-1s and feedback: 4-At-The-Internship/1_on_1s_and_feedback.md
+    - Other:
+        - Waterloo specific: other/waterloo_specific.md
