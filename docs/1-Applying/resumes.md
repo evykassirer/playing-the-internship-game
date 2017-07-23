@@ -88,7 +88,7 @@ In general, it might seem like writing more will make you seem more impressive, 
 
 How do you know if you're being too verbose? If you do have a two-page resume, you should definitely at least do the exercise of shortening it until it fits into one page. Just think of it as a way to practice being concise, and ask your friends to cross out what they think is the least interesting if needed. You might not like the end result and decide not to keep it. That's fine. But you might also find out that it works just fine.
 
-For more tips on shortening resumes, see [resume information density](resume-information-density.md).
+For more tips on shortening resumes, see [resume information density](resume_information_density.md).
 
 ### How to talk about things
 
