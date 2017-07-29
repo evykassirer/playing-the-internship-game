@@ -25,7 +25,6 @@ markdown_extensions:
 # Specify the pages (so that they can be ordered)
 pages:
     - Home: index.md
-    - Resources: resources.md
     - 1. Applying:
         - When to apply: 1-Applying/when_to_apply.md
         - Finding companies to apply to: 1-Applying/finding_companies_to_apply_to.md
@@ -50,3 +49,4 @@ pages:
         - 1-on-1s and feedback: 4-At-The-Internship/1_on_1s_and_feedback.md
     - Other:
         - Waterloo specific: other/waterloo_specific.md
+    - Resources: resources.md
