@@ -14,7 +14,11 @@ I also want to note that just because I've learned that something is the most ef
 
 If you have a question, [open an issue](https://github.com/evykassirer/playing-the-internship-game/issues/new) with it and I'll try to add the answer in here somewhere. If you'd like to ask a question anonymously, or just less publicly, you can also fill out [this form](https://goo.gl/forms/jdmIcCBQcbBf5P5w1)
 
+### Contributing
+
 If you have advice to add, please feel free to open a pull request!
+
+See [contributing](https://github.com/evykassirer/playing-the-internship-game/blob/master/contributing.md).
 
 ### Website
 
