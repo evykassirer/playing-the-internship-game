@@ -12,7 +12,7 @@ If you do happen have a lot of time on your hands that you want to spend on side
 2. You could choose to do research on Tensorflow.
 3. You could fork a Tensorflow project from GitHub (look up "fork Github" on Google if you're not sure what that means) and write a wrapper for a specific neural network technique (Alexnet for example).
 4. You could then write a blog post, website demonstrating processes, methodology and use case for the technique.
-5. You can then apply to relevant companies, showcasing he project and case study as an informal cover letter.
+5. You can then apply to relevant companies, showcasing the project and case study as an informal cover letter.
 
 I've never done this. That's more technical work outside of school/jobs than I'd want to do. But it does work for some people!
 
