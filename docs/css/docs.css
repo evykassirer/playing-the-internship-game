@@ -1,0 +1,11 @@
+/* The lighter font color of blockquotes signals that the content is
+ * more of a side note or opinion rather than a "need to know".
+ */
+blockquote {
+    background: #f1f1f1;
+    color: #909090;
+}
+
+blockquote p {
+    padding: 20px 15px;
+}

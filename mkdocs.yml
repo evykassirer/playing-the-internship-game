@@ -25,6 +25,13 @@ markdown_extensions:
 # Specify the pages (so that they can be ordered)
 pages:
     - Home: index.md
+    - Resources: resources.md
+    - 0. Preparing:
+        - About preparation: 0-Preparing/about_preparation.md
+        - Learning about the industry: 0-Preparing/learning_about_industry.md
+        - Starting side projects: 0-Preparing/starting_side_projects.md
+        - Continuing side projects: 0-Preparing/continuing_side_projects.md
+        - Other ways to prepare: 0-Preparing/other_ways_to_prepare.md
     - 1. Applying:
         - When to apply: 1-Applying/when_to_apply.md
         - Finding companies to apply to: 1-Applying/finding_companies_to_apply_to.md
@@ -32,7 +39,6 @@ pages:
         - References: 1-Applying/references.md
         - Resumes: 1-Applying/resumes.md
         - Resume information density: 1-Applying/resume_information_density.md
-        - Side projects: 1-Applying/side_projects.md
         - Keeping track of applications: 1-Applying/keeping_track_of_applications.md
     - 2. Interviews:
         - Preparing for interviews: 2-Interviews/preparing_for_interviews.md
@@ -52,3 +58,5 @@ pages:
     - Other:
         - Waterloo specific: other/waterloo_specific.md
     - Resources: resources.md
+extra_css:
+    - css/docs.css
