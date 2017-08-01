@@ -53,8 +53,10 @@ pages:
         - Meetings: 4-At-The-Internship/meetings.md
         - Keeping an internship summary: 4-At-The-Internship/keeping_an_internship_summary.md
         - 1-on-1s and feedback: 4-At-The-Internship/1_on_1s_and_feedback.md
+        - Developing technical skills: 4-At-The-Internship/developing_technical_skills.md
+        - Experiences outside work: 4-At-The-Internship/experiences_outside_work.md
     - Other:
         - Waterloo specific: other/waterloo_specific.md
-
+    - Resources: resources.md
 extra_css:
     - css/docs.css
