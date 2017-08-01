@@ -29,7 +29,6 @@ Very likely to show up in interviews:
 The above provide a solid foundation to start with. Some intro-level internships will not ask technical questions at all, or teach you concepts during the interview. For places that do ask technical questions, most will assume that you have a good understanding of these basics.
 
 Likely to show up in interviews at more competitive/intermediate-level internships:
-- Be able to give a 5 minute answer the question "how does the internet work?" or "what happens when I type google.com in the URL bar and press enter?" (see resources)
 - [Representing graphs](https://www.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/representing-graphs) (e.g. edge lists, adjacency matrices, adjacency lists)
 - Breadth-first search and depth-first search on graphs
 - Being able to add and remove a node from a non-balanced binary search tree
@@ -37,6 +36,7 @@ Likely to show up in interviews at more competitive/intermediate-level internshi
 - Being able to implement quicksort and mergesort
 - Dynamic programming (the most advanced concept you'll probably need to know, some companies like Google love dynamic programming questions)
 - Tries, how to use them (also relatively more advanced but they show up not infrequently)
+- Be able to give a 5 minute answer the question "how does the internet work?" or "what happens when I type google.com in the URL bar and press enter?" (see resources below for some resources on how to answer this)
 
 If you use a textbook such as Introduction to Algorithms by Cormen, the book will often cover algorithms and data structures that are very unlikely to appear in an interview.  Things that are not that important unless you have time:
 - Any graph algorithm more advanced than Djikstra search
