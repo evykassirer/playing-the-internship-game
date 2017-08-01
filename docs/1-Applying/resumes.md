@@ -50,7 +50,7 @@ Education
 Projects
 
 - If you don't have work experience, work on some small tech projects you can highlight at the top of your resume as proof of your skills.
-- See [the page on side projects](side_projects.md) for more info
+- See [the page on side projects](../0-Preparing/starting_side_projects.md) for more info
 - If you have a lot of projects, pick your favourite 3-4 for your resume; it might seem like having 7 projects looks impressive but unless they're all super impressive it just looks like filler - on your resume you always want quality over quantity
 
 Awards / Scholarships
@@ -76,7 +76,7 @@ As much as possible, don't list your skills without context proving you have the
 
 Similarily, show that you know programming languages by mentioning them in the work you've done with them and don't just list a bunch of them at the top of your resume. It can be useful to have them all in one place of course. But ideally, languages/technologies/acronyms that you put in a list should also appear elsewhere on your resume.
 
-We say ideally because you might have dabbled in some new technology just to try it (e.g. some framework, language, programming tool, API, etc). You might not have completed a project with it and don't know how you'd write about it on your resume. However, you probably still learned something from it and that still signals to the employers that you can learn on your own which is great [see side projects](side_projects.md). It's fine to include them, as long as you are able to explain how you've used them during an interview if asked. In general, you should be able to talk about anything on your resume during an interview.
+We say ideally because you might have dabbled in some new technology just to try it (e.g. some framework, language, programming tool, API, etc). You might not have completed a project with it and don't know how you'd write about it on your resume. However, you probably still learned something from it and that still signals to the employers that you can learn on your own which is great ([see side projects](../0-Preparing/starting_side_projects.md)). It's fine to include them, as long as you are able to explain how you've used them during an interview if asked. In general, you should be able to talk about anything on your resume during an interview.
 
 ### Length
 
