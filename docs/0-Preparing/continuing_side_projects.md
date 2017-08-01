@@ -2,12 +2,18 @@
 
 This section continues the discussion on side projects. It's meant to go in a little more depth if you already have some coding and side project experience, but it might still be an interesting read otherwise.
 
-### More signals that side projects can give the employer
+### Once you have work experience
+
+Projects are important when you don't have work experience yet, but they're not *as* essential once you have work experience on your resume. **There's a lot of experiences that valuable to have in life besides side projects.** It's really healthy to have other hobbies besides programming.
+
+At this point, projects are less for finding *a* job and more for increasing your options, or for personal interest. For example, if you eventually want to try doing a data science role, it's easier to convince a company that you're genuinely interested in data science if a data science project shows up on your resume.
+
+### More ways employers can see side projects
 
 **You can work in a team**
 
-- *Example*: You make a platformer game with 2 friends and publish it online. It only has one hour of gameplay but it works great!
-- *Why it's useful*: You'll have to work in a team at some point
+- *Example*: You make a platformer game with 2 friends and publish it online. There's only one level in the game but it works great!
+- *Why it's useful*: A lot of software is developed in teams and this experience will help you learn how to work in teams more effectively
 
 **You can go in depth in a subject**
 
@@ -17,18 +23,12 @@ This section continues the discussion on side projects. It's meant to go in a li
 **You can do things of value to other people**
 
 - *Example*: After a year using The Latest Javascript Framework, you notice that it doesn't have a wrapper for another popular library, and you create it
-- *Why it's useful*: It shows that you have enough experience to have context on what other people care about
+- *Why it's useful*: It shows that you have enough experience to have context on what other people want to use or care about
 
 **You can maintain a project over a long period of time**
 
 - *Example*: You make a really good calendar widget for iOS. It breaks everytime a new iOS release comes out but you fix it everytime
-- *Why it's useful*: It demonstrates good work ethic and requires to be diligent in writing future-oriented, robust code
-
-### Once you have work experience
-
-Projects are important when you don't have work experience yet, but they're not *as* essential once you have work experience on your resume. There's a lot of experiences that valuable to have in life besides side projects. It's really healthy to have other hobbies besides programming.
-
-At this point, projects are less for finding *a* job and more for increasing your options, or for personal interest. For example, if you eventually want to try doing a data science role, it's easier to convince a company that you're genuinely interested in data science if a data science project shows up on your resume.
+- *Why it's useful*: It demonstrates good work ethic and requires you to be diligent in writing future-oriented, robust code
 
 ### Open Source
 

@@ -16,6 +16,8 @@ A decent way to start is just to read for 30 minutes every other day. It can eve
 
 Note that as is typical of the Internet, you'll have to sift through a lot of wrong claims and garbage to get to the useful ideas. Keep that in mind, but it's not always a bad thing. In order to understand why something is "true", you also need to know what the alternatives were. Furthermore, knowing where people disagree can help you make balanced decisions and empathize.
 
+> Evy says: I honestly don't read much tech news. I tend to choose my reading based on things my friends share on Facebook and Twitter, and things my coworkers share on Slack. Though that sometimes includes tech news, I definitely don't go out of my way to find it. I think enough about tech at my day job and am happy to learn more there if needed. Tech news is full of clutter and mean words and lots of things I don't know that overwhelm me. However, I'm privileged to be taken fairly seriously at this point my career with what I've done so far, which allows me to not think as much about tech outside of what I want to read and work on. Reading about our industry has definitely helped (and been interesting to!) many folks I know.
+
 ### Typical things to read
 
 [Hacker News](https://news.ycombinator.com/): You might have heard of this one. It's effectively the barometer of what the tech industry think is trendy. While not at all perfect, and often full of comments by people who think they know more than they do, there are also occasional deep and [insightful comments by domain experts](https://danluu.com/hn-comments/) that you can't find anywhere else. Hiring and interviews is a topic that shows up often, and you'll get to hear opinions and tips from people all over the industry.
@@ -29,3 +31,5 @@ Note that as is typical of the Internet, you'll have to sift through a lot of wr
 [Joel on Software](https://www.joelonsoftware.com/): One of the earliest tech blogs. He writes well and talks a lot about software engineering in the real world, the impact of technical decisions, and other useful insights that you can't really get from working on side projects.
 
 [Paul Graham](http://www.paulgraham.com/articles.html): One of the most influential figures in the Silicon Valley startup scene. A lot of vocabulary, terminology people and "commonly accepted truths" come from his essays, so it's a very useful read if you want to learn the "startup language". There's some controversial opinions in there but he does go in more depth in his essays than most bloggers.
+
+*The readings are biased towards Silicon Valley tech, but there's a lot of value that software provides to other industries! The volume of public literature tends to be higher in tech so it's fine to start there, but it's not all there is in the world.*
