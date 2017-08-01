@@ -12,8 +12,8 @@ That being said, some languages allow you to express concepts much more quickly 
 
 Things that can get in the way in other languages include:
 - Writing types (we love types, but you only have one hour to write your code and explain it!)
-- Manual memory management
-- Verbose syntax
+- Manual memory management (tedious and error-prone)
+- Verbose syntax  (using Python will usually result in much less writing, which saves so much time)
 - Boilerplate code
   - Class definitions, keywords like public or static
   - Writing conversions between conceptually similar data structures (e.g. a library function returns `String[]`, you want `List<String>`)
@@ -24,6 +24,8 @@ Search for [Python tricks](http://sahandsaba.com/thirty-python-language-features
 
 There are other languages that are quite ergonomic, like Ruby and some functional languages. But Python is the most widely understood and useful outside of interviews.
 
+> Evy says: When I started using Python, I started passing interviews at a much higher rate. Yes, I was also more experienced, but I was a lot less worried about "using the language right" and having enough time to put my ideas into code. I spent a few weeks practicing algorithms in Python and looking at sample solutions to see what kinds of helpful shortcuts I could use, and then I was set!
+
 > Rudi says: sometimes the interviewer might specify which language you have to use. You don't really have a choice but to comply to their demands. However, for algorithm questions, it's not a great sign unless they have a good and specific justification. While all programmers begin programming by learning a programming language, transferring concepts between programming languages is not very difficult once you've used 2 or 3.
 
 > Rudi says: some questions are better suited for some languages than others. For example, you can better communicate that you understand low-level concepts if you use C++ than Python. However, often times, you can still get the concepts across in a high-level language, and just mention why it would be more efficient in a low-level language. I've once implemented a garbage collector in Python during an interview and did pointer arithmetics on Python integers while pretending they were pointers. It was basically pseudo-code that actually ran and worked. But it's something I'd never do in real life, there would be no situation where it would make sense!
@@ -32,13 +34,15 @@ There are other languages that are quite ergonomic, like Ruby and some functiona
 
 - Speak loudly, clearly, and confidently
   - Being confident does not mean being confident that you are always right or that your code is guaranteed to work. A confident person is also comfortable communicating that there are things that they don't know, and places where they could be mistaken.
-  - It's hard to 'teach' being confident, but seeing examples might help gain awareness (see the resources section)
+  - It's hard to 'teach' being confident, but seeing examples might help gain awareness (see the "Other resources" below)
 - Make eye contact if you're doing an in-person interview
 - Practice shaking hands with friends if needed, to get a sense of what a good, firm handshake looks like
 - Explain what you're thinking and doing throughout the interview
-- Using clear variable names and even writing comments while coding is part of communication. It helps the interviewer follow what you're doing, and it demonstrates a care for quality code that employers value
+- Using clear variable names and even writing comments while coding is part of communication. It helps the interviewer follow what you're doing, and it demonstrates a care for quality code, which is valued in the workplace
 
 > Rudi says: Communication is a difficult life skill to master. We're not saying that you have to worry about how much you talk at any point in the interview. That would be super stressful and trip you up! Rather, we only mean that this is something to keep in mind and improve in the long term. Also, it's more important to become good at solving the problem at first than focus on perfecting your delivery. I know it's really hard to think about clear communication when your brain is 100% focused on solving the question! I can't do it. The more comfortable you become with solving the question, the more bandwidth you'll free up to think about other things.
+
+> Evy says: When I solve a problem in my head, I often think in words, which makes it easier to just verbalize that process to an interviewer. Lucky, right? I know not everyone thinks this way, but I think practicing verbalizing your thought process will help, even if you're unsure about things. You can practice this for coding algorithms, but you can also practice when solving every day life problems :)
 
 ### Algorithms: starting the interview
 
@@ -62,11 +66,11 @@ There are other languages that are quite ergonomic, like Ruby and some functiona
 
 ### Algorithms: solving the problem
 
-- Explain your thought process. Keep talking throughout the interview. Humans (interviewers included) tend to be uncomfortable with long silences for whatever reason.
+- Explain your thought process throughout the interview. The interviewer also wants to know how you think, and what's going on in your mind throughout the interview (it's okay to verbalize feelings of nervousness too!). And sometimes, it helps just because interviews can be uncomfortable with long silences, they're humans too!
   - It's perfectly fine to take time to think. Just state it. The point is to avoid suddenly going silent. Useful phrases include "I'm going to take a minute to think about possible solutions" or "I'm worried that my solution does not handle this edge case. Let me think about this for a minute". Think of it as if you were narrating your own thought process: "I am wondering whether I should use approach A or approach B"
-  - Always explain what you are coding next. It doesn't have to be a long-winded explanation, often a sentence is enough. For example, "next, I'm going to find the object in this array with the largest index" before writing the 3-5 lines of code that achieves it
+  - Always explain what you are coding next. It doesn't have to be a long-winded explanation, often a sentence is enough. For example, "next, I'm going to find the object in this array with the largest index" before writing the 3-5 lines of code that achieves it. This can be helpful if you are going in the wrong direction. If finding the object in the array with the largest index won't help you solve the problem, your interviewer might pipe in and encourage you to try something else before you waste time coding it up
   - There's a natural fear of being judged for saying something wrong, but it's often fine to keep talking even if you're not sure that you're right. Interviewers often want to know how you struggle just as much as (if not more than) they want to see you just "get it"
-  - One way to practice this is to do problems on a sheet of paper and [talk to a rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+  - One way to practice this is to do problems on a whiteboard or sheet of paper and [talk to a rubber duck](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 - Keep a good pace (keep in mind how long you have and how much you're aiming to get done ... but not too much cause it can be sort of terrifying)
 - It's definitely not about getting the right answer right away - any good coder will eventually write code to do it - it's about the process that got you there and getting there within time constraints
 - Make sure you handle common edge cases, like an empty input! People always forget that
@@ -79,8 +83,11 @@ A common question students ask is **"am I allowed to use library functions?"** (
 
 On that subject, a very useful bit of preparation that can only take an hour or two is to familiarize yourself with the libraries that come with your language. It's worth reading over the operations you can do on strings, arrays/lists and maps/dictionaries. Useful functions include `zip`, `split`, `substr`/`slice`, `join`, `find`, etc.
 
+> Evy says: before interviews, I summarize all this functions on a few sheets of paper and print them out and get familiar with where certain functions are on the sheets. If I'm doing a phone screening, I put the papers up above my laptop so I can refer to them. But I've also had interviews where I say "oh I know there's a function for that but forget what its name is - can I Google it?" and they either say yes or say I can just make it up. Google will always be available at work, so it's unreasonable to ask you to program in an interview as if it wasn't available.
+
 ### Algorithms: finishing the interview
 
+- Write/talk through some test cases if you have time, to prove to yourself and the interviewer that your code works
 - Once you have an initial implementation mostly right, ask if any further optimizations are necessary
   - Are you optimizing for time? Space? Which is more important?
 - Offer to make further improvements the code. This tends to impress interviewers
@@ -88,16 +95,16 @@ On that subject, a very useful bit of preparation that can only take an hour or 
   - Is there any redudancy that could be eliminated?
   - Could you refactor your solution to be more generalized? e.g. accept an arbitrary iterable data structure as an input when the question just asked you to handle arrays
   - Can you write the solution more concisely? e.g. you used a bunch of for loops when you could have used map/filter/reduce
-- Write/talk through some test cases if you have time, to prove to yourself and the interviewer that your code works
   - Volunteering to do this also impresses interviewers, because it shows that you take responsibility for making sure your code is correct
 
 ### Algorithms: advanced tips
 
 - Implement functions in breadth-first order, not depth-first order
   - For example, supposed you have your main function f1 that calls f2 and f3. Function f2 calls f4. An effective implementation order is f1, f2, f3, f4. Don't implement part of f1, jump to f2, then f3, and end up coming back to f1 later. You'll lose track of what you were doing. Instead, just call the functions, explaining to the interviewer what the function does and promise that you'll implement it after you're done with your current function
+  - This also optimizes the time you have. If you don't get to writing some of your helper functions that implement the details, the overall general solution will still be coded out in full
 - If the solution to a problem is already familiar to you or you can find the solution instantly, be careful not to code it directly without any explanations
-  - There's a danger that the interviewer will think you just memorized the solution, which doesn't provide them much information about your problem solving-abilities
-  - To mitigate this, explain the constraints of the problems, the conditions that need to be satisfied for the solution to work, and the reasoning behind each part of the solution. For example, if your solution involves using a set, explain that you need constant-time access, that you don't need to store duplicate elements, that you have no values (keys only) and that order doesn't matter (unless the set implementation in your language guarantees an order)
+  - There's a danger that the interviewer will think you just memorized the solution, which doesn't provide them much information about your problem solving-abilities. You should probably also tell the interviewer you know the answer from before, that you have already figured it out. They might give you another question, or you might be asked to still implement it, just explaining the solution as you go
+  - Otherwise, take extra care to explain the constraints of the problems, the conditions that need to be satisfied for the solution to work, and the reasoning behind each part of the solution. For example, if your solution involves using a set, explain that you need constant-time access, that you don't need to store duplicate elements, that you have no values (keys only) and that order doesn't matter (unless the set implementation in your language guarantees an order)
 - Learn to use the accurate and precise terminology
   - For example, I've heard people say "null tree" when they meant "empty tree". In some cases, an empty tree is represented with a null pointer, but the term "null" is very language and implementation-specific
   - Another example is saying that you want to use an ArrayList when discussing what data structure to use. Probably you would want to say either an array or dynamic array, which conveys more information that you understand how ArrayList is implemented and what the performance implications are
@@ -123,7 +130,9 @@ From [Steve Yegge's blog](http://steve-yegge.blogspot.com/2008/03/get-that-job-a
 ### Other resources
 
 [A video walkthrough of a coding question using some of the tips above](https://www.youtube.com/watch?v=7mR9PJDjRjo&t)
+
 [YouTube channel on charisma and confidence](https://www.youtube.com/user/charismaoncommand/videos)
+
 [The Charisma Myth](https://www.amazon.com/Charisma-Myth-Science-Personal-Magnetism/dp/1591845947)
 
 [How to identify edge cases on algorithms](http://softwareengineering.stackexchange.com/questions/72761/how-do-you-identify-edge-cases-on-algorithms)!
