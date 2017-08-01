@@ -167,6 +167,18 @@
      <changefreq>daily</changefreq>
     </url>
         
+    <url>
+     <loc>/4-At-The-Internship/developing_technical_skills/</loc>
+     <lastmod>2017-08-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/4-At-The-Internship/experiences_outside_work/</loc>
+     <lastmod>2017-08-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
@@ -177,6 +189,14 @@
      <changefreq>daily</changefreq>
     </url>
         
+    
+
+    
+    <url>
+     <loc>/resources/</loc>
+     <lastmod>2017-08-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
     
 
 </urlset>
