@@ -8,7 +8,13 @@ A few tips on making [good PRs](https://github.com/blog/1943-how-to-write-the-pe
 
 ### Goals
 
-We'd like to strike a balance between accurate and complete information, and trying not to overwhelm the reader with too many things they need to do, or technicalities. There are going to be tradeoffs sometimes, but they're not completely at odds. If a section or file is growing too big with information, it might be worth factoring the details out into a separate section or file. Just like when a function grows too big!
+We acknowledge that there is no advice that'll work for everyone, and different people will find different tips helpful - all advice is subjective. Often advice is given as if it was _objective_ ("you should do this", "if you want to be successful then this is best way", etc) and this guide explicitly tries to avoid this kind of tone.
+
+It's important that readers of this guide know that there are many paths to successful internship search, and many ways of defining a successful internship search.
+
+Therefore, when contributing please avoid words like 'should', and be aware of your tone (you provide suggestions, not sources of truth). It can be helpful to explicitly call out situations where different people will find different things helpful, to help the reader understand that it's expected that they pick and choose what works for them.
+
+We also would like to strike a balance between accurate/complete information, and trying not to overwhelm the reader with too many things they need to do, or technicalities. There are going to be tradeoffs sometimes, but they're not completely at odds. If a section or file is growing too big with information, it might be worth factoring the details out into a separate section or file. Just like when a function grows too big!
 
 **Emphasis markers** help the reader focus on the key point of a section.
 
