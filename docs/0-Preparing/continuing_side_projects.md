@@ -36,6 +36,8 @@ One underrated form of getting experience is contributing to open source project
 
 A good alternative to internships is to contribute to open-source via [Google Summer of Code](https://developers.google.com/open-source/gsoc/).
 
+Evy runs an open source project called [mathsteps](https://github.com/socraticorg/mathsteps), and wants y'all to know she would be happy to help any of you get started on something in the project!
+
 Rudi wrote this on Quora:
 
 > **In general, I recommend contributing to open-source when the time comes organically, rather than forcing yourself to do it**
