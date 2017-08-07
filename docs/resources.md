@@ -9,3 +9,5 @@ LSH: [How To Prep for the Job Hunt](https://www.youtube.com/watch?v=N__a2v8nVbE&
 Career advice from internship placement site WayUp](https://www.wayup.com/guide/)
 
 [How to Get an Internship by Eric Jang](http://blog.evjang.com/2016/07/how-to-get-internship.html)
+
+[Side project tips from Gayle Laakmann McDowell]( https://www.quora.com/Computer-Science-is-not-teaching-me-programming-it-is-teaching-me-maths-What-can-I-do-to-use-my-coding-knowledge-to-program-apps-etc/answer/Gayle-Laakmann-McDowell)
