@@ -2,7 +2,7 @@
 
 Content created by [Evy Kassirer](http://www.evykassirer.com/) and [Rudi Chen](http://digitalfreepen.com/)
 
-You can view the source markdown files in the Docs folder. This content is also viewable at [this website](https://evykassirer.github.io/playing-the-internship-game)
+You can view the source markdown files in the `docs` folder. You can also view the content at [this website](https://evykassirer.github.io/playing-the-internship-game)
 
 ### A note from Evy: The rules, tips, and tricks I've learned on how to approach tech internships
 
