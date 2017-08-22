@@ -11,7 +11,7 @@ repo_url: 'https://github.com/evykassirer/playing-the-internship-game'
 copyright: © Evy Kassirer
 
 # Google Analytics
-google_analytics: ['UA-104984593-1', 'mkdocs.org']
+google_analytics: ['UA-104984593-1', 'auto']
 
 # Documentation and theme
 theme: 'readthedocs'
