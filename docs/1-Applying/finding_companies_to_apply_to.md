@@ -10,7 +10,7 @@ You can often find lists online of companies hiring for summer internships. Inte
 - [Indeed.com](https://www.indeed.com/) (job board)
 - [Breakout List](https://breakoutlist.com/all) (hot new tech companies)
 - [WayUp](https://www.wayup.com/) (internships)
-- [Hacker News](https://news.ycombinator.com/) (for the latest monthly list, search for "Ask HN: Who is hiring? (<month> <year>)". For example, "Ask HN: Who is hiring? (February 2017)".)
+- [Hacker News](https://news.ycombinator.com/) (for the latest monthly list, search for "Ask HN: Who is hiring? (&lt;month> &lt;year>)". For example, "Ask HN: Who is hiring? (February 2017)".)
 
 If you have other good resources, please submit a pull request. It's greatly appreciated :D
 
@@ -26,9 +26,9 @@ If you have other good resources, please submit a pull request. It's greatly app
 Information about available opportunities is scattered throughout the Internet and moves around a lot. Sometimes, just searching for "hiring interns" (adding a few more specific terms) and see what shows up! This works pretty well too.
 
 The more specific the query, the more likely you can find something useful. Try different combinations of queries that can include some of:
-- What you're looking for. It can be "tech company internships", "hiring programming intern", etc. Since not all companies have internship positions advertised, you may want to just search for "tech company" and look around their website for someone to ask about internships (usually a recruiter, sometimes a generic careers@<company>.com, or even the CEO/founder at smaller companies)
+- What you're looking for. It can be "tech company internships", "hiring programming intern", etc. Since not all companies have internship positions advertised, you may want to just search for "tech company" and look around their website for someone to ask about internships (usually a recruiter, sometimes a generic careers@&lt;company>.com, or even the CEO/founder at smaller companies)
 - The specific industry you are looking for. For example, "biotech company", "gaming studio", "app development shop", "data analytics provider", etc.
-- A specific city. Beyond the Bay Area, there are many smaller tech hubs in the US and Canada. You can search for internships in <your city>, <a big city near you>, New York, Seattle, Boston, Portland, Austin, Pittsburg, Boulder, Washington DC, Waterloo, Toronto, Vancouver, Montreal. Outside of North America, tech hubs include London, Dublin, Barcelona, Berlin, Amsterdam, Singapore, Taipei, Hong Kong, and probably a lot more that I don't know. Internships can be a great way to travel.
+- A specific city. Beyond the Bay Area, there are many smaller tech hubs in the US and Canada. You can search for internships in &lt;your city>, &lt;a big city near you>, New York, Seattle, Boston, Portland, Austin, Pittsburg, Boulder, Washington DC, Waterloo, Toronto, Vancouver, Montreal. Outside of North America, tech hubs include London, Dublin, Barcelona, Berlin, Amsterdam, Singapore, Taipei, Hong Kong, and probably a lot more that I don't know. Internships can be a great way to travel.
 
 ### Your friends
 
