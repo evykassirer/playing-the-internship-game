@@ -8,7 +8,7 @@ Competitive programming will push your algorithms skills way past what you need 
 
 You don't need to actually *compete*. If you find it fun, go ahead, but trying to *win* competitions requires other skills beyond algorithms (like writing dirty code fast) that aren't very applicable for internships.
 
-A good way to practice competitive programming while learning algorithms at the same time is through the [USACO training pages](http://www.usaco.org/index.php?page=training). Note that the problems start quite hard so this is meant more for people that already have programming experience (even if it's informal). The past contests of the [Canadian Computing Competition](http://www.cemc.uwaterloo.ca/contests/computing.html) are pretty good practice, especially the junior division which is accessible with minimal programming experience. Other popular websites include HackerRank, Codeforce, TopCoder, etc.
+A good way to practice competitive programming while learning algorithms at the same time is through the [USACO training pages](http://www.usaco.org/index.php?page=training). Note that the problems start quite hard so this is meant more for people that already have programming experience (even if it's informal). The past contests of the [Canadian Computing Competition](http://www.cemc.uwaterloo.ca/contests/computing.html) are pretty good practice, especially the junior division which is accessible with minimal programming experience. Other popular websites include HackerRank, Codeforces, TopCoder, etc.
 
 [Are programming competitions a good use of time?](https://luckytoilet.wordpress.com/2016/12/23/are-programming-competitions-a-good-use-of-time/)
 
