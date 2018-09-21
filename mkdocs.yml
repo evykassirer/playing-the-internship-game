@@ -28,7 +28,6 @@ markdown_extensions:
 # Specify the pages (so that they can be ordered)
 pages:
     - Home: index.md
-    - Resources: resources.md
     - 0. Preparing:
         - About preparation: 0-Preparing/about_preparation.md
         - Learning about the industry: 0-Preparing/learning_about_industry.md
