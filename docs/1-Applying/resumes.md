@@ -146,5 +146,5 @@ Once you're 2 years into university, I'd say don't talk about high school at all
 #### More resources about resumes
 
 - [something I wrote a while ago about resumes](https://docs.google.com/document/d/1iMMQCuHFY5ocwAJSrnAIfz5o23CYYsT0EPtlYTaj9Bs/pub) (there's some stuff I haven't put here yet)
-- [my resume if you're curious what it looks like](evykassirer.com/resume)
+- [my resume if you're curious what it looks like](http://evykassirer.com/resume)
 - [tips from Gayle McDowell](https://www.careercup.com/resume)
